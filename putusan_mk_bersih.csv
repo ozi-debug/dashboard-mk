@@ -1,0 +1,1001 @@
+nomor_perkara,judul,tahun,amar_putusan,url_detail,kategori_amar,jenis_Lainnya,jenis_PHPU,jenis_Pengujian UU,jenis_Sengketa Lembaga,y_dikabulkan
+PUT-0001/2023,Perkara Nomor 1,2020,Ditolak,https://jdih.mkri.id/detail/1,Ditolak,False,False,True,False,0
+PUT-0002/2023,Perkara Nomor 2,2022,Tidak Diterima,https://jdih.mkri.id/detail/2,Tidak Diterima,True,False,False,False,0
+PUT-0003/2023,Perkara Nomor 3,2020,Dikabulkan,https://jdih.mkri.id/detail/3,Dikabulkan,False,True,False,False,1
+PUT-0004/2023,Perkara Nomor 4,2018,Ditolak,https://jdih.mkri.id/detail/4,Ditolak,False,False,True,False,0
+PUT-0005/2023,Perkara Nomor 5,2020,Ditolak,https://jdih.mkri.id/detail/5,Ditolak,False,False,True,False,0
+PUT-0006/2023,Perkara Nomor 6,2018,Dikabulkan,https://jdih.mkri.id/detail/6,Dikabulkan,False,False,True,False,1
+PUT-0007/2023,Perkara Nomor 7,2021,Dikabulkan,https://jdih.mkri.id/detail/7,Dikabulkan,False,False,True,False,1
+PUT-0008/2023,Perkara Nomor 8,2019,Tidak Diterima,https://jdih.mkri.id/detail/8,Tidak Diterima,False,True,False,False,0
+PUT-0009/2023,Perkara Nomor 9,2018,Ditolak,https://jdih.mkri.id/detail/9,Ditolak,False,True,False,False,0
+PUT-0010/2023,Perkara Nomor 10,2019,Ditolak,https://jdih.mkri.id/detail/10,Ditolak,False,False,False,True,0
+PUT-0011/2023,Perkara Nomor 11,2022,Tidak Diterima,https://jdih.mkri.id/detail/11,Tidak Diterima,True,False,False,False,0
+PUT-0012/2023,Perkara Nomor 12,2021,Tidak Diterima,https://jdih.mkri.id/detail/12,Tidak Diterima,True,False,False,False,0
+PUT-0013/2023,Perkara Nomor 13,2021,Ditolak,https://jdih.mkri.id/detail/13,Ditolak,False,False,True,False,0
+PUT-0014/2023,Perkara Nomor 14,2019,Ditolak,https://jdih.mkri.id/detail/14,Ditolak,False,True,False,False,0
+PUT-0015/2023,Perkara Nomor 15,2018,Ditolak,https://jdih.mkri.id/detail/15,Ditolak,False,False,True,False,0
+PUT-0016/2023,Perkara Nomor 16,2021,Dikabulkan,https://jdih.mkri.id/detail/16,Dikabulkan,False,False,False,True,1
+PUT-0017/2023,Perkara Nomor 17,2023,Ditolak,https://jdih.mkri.id/detail/17,Ditolak,False,False,True,False,0
+PUT-0018/2023,Perkara Nomor 18,2018,Dikabulkan,https://jdih.mkri.id/detail/18,Dikabulkan,False,False,True,False,1
+PUT-0019/2023,Perkara Nomor 19,2019,Ditolak,https://jdih.mkri.id/detail/19,Ditolak,False,False,True,False,0
+PUT-0020/2023,Perkara Nomor 20,2018,Tidak Diterima,https://jdih.mkri.id/detail/20,Tidak Diterima,False,True,False,False,0
+PUT-0021/2023,Perkara Nomor 21,2023,Ditolak,https://jdih.mkri.id/detail/21,Ditolak,False,False,True,False,0
+PUT-0022/2023,Perkara Nomor 22,2021,Ditolak,https://jdih.mkri.id/detail/22,Ditolak,False,False,True,False,0
+PUT-0023/2023,Perkara Nomor 23,2021,Dikabulkan,https://jdih.mkri.id/detail/23,Dikabulkan,False,False,False,True,1
+PUT-0024/2023,Perkara Nomor 24,2020,Tidak Diterima,https://jdih.mkri.id/detail/24,Tidak Diterima,False,False,True,False,0
+PUT-0025/2023,Perkara Nomor 25,2023,Dikabulkan,https://jdih.mkri.id/detail/25,Dikabulkan,False,False,True,False,1
+PUT-0026/2023,Perkara Nomor 26,2021,Tidak Diterima,https://jdih.mkri.id/detail/26,Tidak Diterima,False,False,False,True,0
+PUT-0027/2023,Perkara Nomor 27,2022,Dikabulkan,https://jdih.mkri.id/detail/27,Dikabulkan,False,False,True,False,1
+PUT-0028/2023,Perkara Nomor 28,2023,Ditolak,https://jdih.mkri.id/detail/28,Ditolak,False,False,True,False,0
+PUT-0029/2023,Perkara Nomor 29,2022,Dikabulkan,https://jdih.mkri.id/detail/29,Dikabulkan,False,False,False,True,1
+PUT-0030/2023,Perkara Nomor 30,2021,Tidak Diterima,https://jdih.mkri.id/detail/30,Tidak Diterima,False,True,False,False,0
+PUT-0031/2023,Perkara Nomor 31,2022,Dikabulkan,https://jdih.mkri.id/detail/31,Dikabulkan,False,False,False,True,1
+PUT-0032/2023,Perkara Nomor 32,2021,Dikabulkan,https://jdih.mkri.id/detail/32,Dikabulkan,False,True,False,False,1
+PUT-0033/2023,Perkara Nomor 33,2020,Ditolak,https://jdih.mkri.id/detail/33,Ditolak,False,False,True,False,0
+PUT-0034/2023,Perkara Nomor 34,2022,Ditolak,https://jdih.mkri.id/detail/34,Ditolak,False,True,False,False,0
+PUT-0035/2023,Perkara Nomor 35,2022,Ditolak,https://jdih.mkri.id/detail/35,Ditolak,False,False,True,False,0
+PUT-0036/2023,Perkara Nomor 36,2021,Ditolak,https://jdih.mkri.id/detail/36,Ditolak,False,False,True,False,0
+PUT-0037/2023,Perkara Nomor 37,2022,Tidak Diterima,https://jdih.mkri.id/detail/37,Tidak Diterima,False,True,False,False,0
+PUT-0038/2023,Perkara Nomor 38,2018,Dikabulkan,https://jdih.mkri.id/detail/38,Dikabulkan,False,True,False,False,1
+PUT-0039/2023,Perkara Nomor 39,2020,Dikabulkan,https://jdih.mkri.id/detail/39,Dikabulkan,False,False,True,False,1
+PUT-0040/2023,Perkara Nomor 40,2019,Ditolak,https://jdih.mkri.id/detail/40,Ditolak,False,False,True,False,0
+PUT-0041/2023,Perkara Nomor 41,2021,Ditolak,https://jdih.mkri.id/detail/41,Ditolak,False,True,False,False,0
+PUT-0042/2023,Perkara Nomor 42,2022,Ditolak,https://jdih.mkri.id/detail/42,Ditolak,False,False,True,False,0
+PUT-0043/2023,Perkara Nomor 43,2023,Dikabulkan,https://jdih.mkri.id/detail/43,Dikabulkan,False,False,True,False,1
+PUT-0044/2023,Perkara Nomor 44,2022,Tidak Diterima,https://jdih.mkri.id/detail/44,Tidak Diterima,False,False,True,False,0
+PUT-0045/2023,Perkara Nomor 45,2021,Dikabulkan,https://jdih.mkri.id/detail/45,Dikabulkan,False,False,True,False,1
+PUT-0046/2023,Perkara Nomor 46,2021,Dikabulkan,https://jdih.mkri.id/detail/46,Dikabulkan,False,True,False,False,1
+PUT-0047/2023,Perkara Nomor 47,2022,Tidak Diterima,https://jdih.mkri.id/detail/47,Tidak Diterima,False,False,True,False,0
+PUT-0048/2023,Perkara Nomor 48,2019,Dikabulkan,https://jdih.mkri.id/detail/48,Dikabulkan,False,False,True,False,1
+PUT-0049/2023,Perkara Nomor 49,2020,Dikabulkan,https://jdih.mkri.id/detail/49,Dikabulkan,False,True,False,False,1
+PUT-0050/2023,Perkara Nomor 50,2022,Tidak Diterima,https://jdih.mkri.id/detail/50,Tidak Diterima,False,False,True,False,0
+PUT-0051/2023,Perkara Nomor 51,2020,Dikabulkan,https://jdih.mkri.id/detail/51,Dikabulkan,False,False,False,True,1
+PUT-0052/2023,Perkara Nomor 52,2019,Dikabulkan,https://jdih.mkri.id/detail/52,Dikabulkan,False,True,False,False,1
+PUT-0053/2023,Perkara Nomor 53,2018,Tidak Diterima,https://jdih.mkri.id/detail/53,Tidak Diterima,False,False,True,False,0
+PUT-0054/2023,Perkara Nomor 54,2020,Tidak Diterima,https://jdih.mkri.id/detail/54,Tidak Diterima,False,False,True,False,0
+PUT-0055/2023,Perkara Nomor 55,2018,Ditolak,https://jdih.mkri.id/detail/55,Ditolak,False,True,False,False,0
+PUT-0056/2023,Perkara Nomor 56,2018,Ditolak,https://jdih.mkri.id/detail/56,Ditolak,False,False,True,False,0
+PUT-0057/2023,Perkara Nomor 57,2019,Ditolak,https://jdih.mkri.id/detail/57,Ditolak,False,False,True,False,0
+PUT-0058/2023,Perkara Nomor 58,2021,Ditolak,https://jdih.mkri.id/detail/58,Ditolak,True,False,False,False,0
+PUT-0059/2023,Perkara Nomor 59,2021,Tidak Diterima,https://jdih.mkri.id/detail/59,Tidak Diterima,False,False,False,True,0
+PUT-0060/2023,Perkara Nomor 60,2021,Ditolak,https://jdih.mkri.id/detail/60,Ditolak,False,False,True,False,0
+PUT-0061/2023,Perkara Nomor 61,2021,Dikabulkan,https://jdih.mkri.id/detail/61,Dikabulkan,False,False,True,False,1
+PUT-0062/2023,Perkara Nomor 62,2021,Ditolak,https://jdih.mkri.id/detail/62,Ditolak,False,True,False,False,0
+PUT-0063/2023,Perkara Nomor 63,2022,Dikabulkan,https://jdih.mkri.id/detail/63,Dikabulkan,False,False,True,False,1
+PUT-0064/2023,Perkara Nomor 64,2018,Dikabulkan,https://jdih.mkri.id/detail/64,Dikabulkan,False,False,True,False,1
+PUT-0065/2023,Perkara Nomor 65,2021,Dikabulkan,https://jdih.mkri.id/detail/65,Dikabulkan,False,False,True,False,1
+PUT-0066/2023,Perkara Nomor 66,2018,Tidak Diterima,https://jdih.mkri.id/detail/66,Tidak Diterima,False,False,True,False,0
+PUT-0067/2023,Perkara Nomor 67,2019,Ditolak,https://jdih.mkri.id/detail/67,Ditolak,True,False,False,False,0
+PUT-0068/2023,Perkara Nomor 68,2022,Ditolak,https://jdih.mkri.id/detail/68,Ditolak,False,False,True,False,0
+PUT-0069/2023,Perkara Nomor 69,2022,Ditolak,https://jdih.mkri.id/detail/69,Ditolak,True,False,False,False,0
+PUT-0070/2023,Perkara Nomor 70,2022,Ditolak,https://jdih.mkri.id/detail/70,Ditolak,False,False,True,False,0
+PUT-0071/2023,Perkara Nomor 71,2019,Tidak Diterima,https://jdih.mkri.id/detail/71,Tidak Diterima,False,False,False,True,0
+PUT-0072/2023,Perkara Nomor 72,2021,Tidak Diterima,https://jdih.mkri.id/detail/72,Tidak Diterima,False,False,True,False,0
+PUT-0073/2023,Perkara Nomor 73,2022,Ditolak,https://jdih.mkri.id/detail/73,Ditolak,False,False,True,False,0
+PUT-0074/2023,Perkara Nomor 74,2018,Ditolak,https://jdih.mkri.id/detail/74,Ditolak,False,True,False,False,0
+PUT-0075/2023,Perkara Nomor 75,2018,Ditolak,https://jdih.mkri.id/detail/75,Ditolak,True,False,False,False,0
+PUT-0076/2023,Perkara Nomor 76,2018,Tidak Diterima,https://jdih.mkri.id/detail/76,Tidak Diterima,False,False,False,True,0
+PUT-0077/2023,Perkara Nomor 77,2020,Tidak Diterima,https://jdih.mkri.id/detail/77,Tidak Diterima,False,False,True,False,0
+PUT-0078/2023,Perkara Nomor 78,2020,Tidak Diterima,https://jdih.mkri.id/detail/78,Tidak Diterima,False,False,True,False,0
+PUT-0079/2023,Perkara Nomor 79,2020,Dikabulkan,https://jdih.mkri.id/detail/79,Dikabulkan,False,False,True,False,1
+PUT-0080/2023,Perkara Nomor 80,2021,Ditolak,https://jdih.mkri.id/detail/80,Ditolak,False,True,False,False,0
+PUT-0081/2023,Perkara Nomor 81,2020,Ditolak,https://jdih.mkri.id/detail/81,Ditolak,False,False,False,True,0
+PUT-0082/2023,Perkara Nomor 82,2023,Dikabulkan,https://jdih.mkri.id/detail/82,Dikabulkan,False,True,False,False,1
+PUT-0083/2023,Perkara Nomor 83,2019,Dikabulkan,https://jdih.mkri.id/detail/83,Dikabulkan,False,False,True,False,1
+PUT-0084/2023,Perkara Nomor 84,2022,Ditolak,https://jdih.mkri.id/detail/84,Ditolak,False,True,False,False,0
+PUT-0085/2023,Perkara Nomor 85,2023,Tidak Diterima,https://jdih.mkri.id/detail/85,Tidak Diterima,False,True,False,False,0
+PUT-0086/2023,Perkara Nomor 86,2022,Ditolak,https://jdih.mkri.id/detail/86,Ditolak,False,False,True,False,0
+PUT-0087/2023,Perkara Nomor 87,2020,Tidak Diterima,https://jdih.mkri.id/detail/87,Tidak Diterima,False,False,True,False,0
+PUT-0088/2023,Perkara Nomor 88,2022,Ditolak,https://jdih.mkri.id/detail/88,Ditolak,False,True,False,False,0
+PUT-0089/2023,Perkara Nomor 89,2019,Ditolak,https://jdih.mkri.id/detail/89,Ditolak,False,True,False,False,0
+PUT-0090/2023,Perkara Nomor 90,2019,Dikabulkan,https://jdih.mkri.id/detail/90,Dikabulkan,False,False,True,False,1
+PUT-0091/2023,Perkara Nomor 91,2020,Tidak Diterima,https://jdih.mkri.id/detail/91,Tidak Diterima,False,False,True,False,0
+PUT-0092/2023,Perkara Nomor 92,2022,Dikabulkan,https://jdih.mkri.id/detail/92,Dikabulkan,False,False,False,True,1
+PUT-0093/2023,Perkara Nomor 93,2018,Tidak Diterima,https://jdih.mkri.id/detail/93,Tidak Diterima,False,True,False,False,0
+PUT-0094/2023,Perkara Nomor 94,2023,Ditolak,https://jdih.mkri.id/detail/94,Ditolak,False,True,False,False,0
+PUT-0095/2023,Perkara Nomor 95,2022,Ditolak,https://jdih.mkri.id/detail/95,Ditolak,False,False,False,True,0
+PUT-0096/2023,Perkara Nomor 96,2020,Tidak Diterima,https://jdih.mkri.id/detail/96,Tidak Diterima,False,False,True,False,0
+PUT-0097/2023,Perkara Nomor 97,2020,Tidak Diterima,https://jdih.mkri.id/detail/97,Tidak Diterima,False,False,True,False,0
+PUT-0098/2023,Perkara Nomor 98,2022,Dikabulkan,https://jdih.mkri.id/detail/98,Dikabulkan,False,False,True,False,1
+PUT-0099/2023,Perkara Nomor 99,2021,Tidak Diterima,https://jdih.mkri.id/detail/99,Tidak Diterima,False,False,False,True,0
+PUT-0100/2023,Perkara Nomor 100,2020,Tidak Diterima,https://jdih.mkri.id/detail/100,Tidak Diterima,True,False,False,False,0
+PUT-0101/2023,Perkara Nomor 101,2019,Ditolak,https://jdih.mkri.id/detail/101,Ditolak,False,True,False,False,0
+PUT-0102/2023,Perkara Nomor 102,2021,Ditolak,https://jdih.mkri.id/detail/102,Ditolak,False,False,False,True,0
+PUT-0103/2023,Perkara Nomor 103,2020,Tidak Diterima,https://jdih.mkri.id/detail/103,Tidak Diterima,False,False,True,False,0
+PUT-0104/2023,Perkara Nomor 104,2021,Tidak Diterima,https://jdih.mkri.id/detail/104,Tidak Diterima,False,False,True,False,0
+PUT-0105/2023,Perkara Nomor 105,2019,Tidak Diterima,https://jdih.mkri.id/detail/105,Tidak Diterima,False,False,True,False,0
+PUT-0106/2023,Perkara Nomor 106,2022,Dikabulkan,https://jdih.mkri.id/detail/106,Dikabulkan,False,True,False,False,1
+PUT-0107/2023,Perkara Nomor 107,2023,Ditolak,https://jdih.mkri.id/detail/107,Ditolak,False,True,False,False,0
+PUT-0108/2023,Perkara Nomor 108,2020,Dikabulkan,https://jdih.mkri.id/detail/108,Dikabulkan,False,False,True,False,1
+PUT-0109/2023,Perkara Nomor 109,2022,Tidak Diterima,https://jdih.mkri.id/detail/109,Tidak Diterima,False,False,True,False,0
+PUT-0110/2023,Perkara Nomor 110,2020,Tidak Diterima,https://jdih.mkri.id/detail/110,Tidak Diterima,False,False,False,True,0
+PUT-0111/2023,Perkara Nomor 111,2020,Dikabulkan,https://jdih.mkri.id/detail/111,Dikabulkan,True,False,False,False,1
+PUT-0112/2023,Perkara Nomor 112,2023,Tidak Diterima,https://jdih.mkri.id/detail/112,Tidak Diterima,False,True,False,False,0
+PUT-0113/2023,Perkara Nomor 113,2022,Ditolak,https://jdih.mkri.id/detail/113,Ditolak,False,True,False,False,0
+PUT-0114/2023,Perkara Nomor 114,2020,Dikabulkan,https://jdih.mkri.id/detail/114,Dikabulkan,False,False,True,False,1
+PUT-0115/2023,Perkara Nomor 115,2020,Tidak Diterima,https://jdih.mkri.id/detail/115,Tidak Diterima,True,False,False,False,0
+PUT-0116/2023,Perkara Nomor 116,2019,Dikabulkan,https://jdih.mkri.id/detail/116,Dikabulkan,False,True,False,False,1
+PUT-0117/2023,Perkara Nomor 117,2019,Dikabulkan,https://jdih.mkri.id/detail/117,Dikabulkan,False,False,False,True,1
+PUT-0118/2023,Perkara Nomor 118,2021,Dikabulkan,https://jdih.mkri.id/detail/118,Dikabulkan,True,False,False,False,1
+PUT-0119/2023,Perkara Nomor 119,2019,Dikabulkan,https://jdih.mkri.id/detail/119,Dikabulkan,False,True,False,False,1
+PUT-0120/2023,Perkara Nomor 120,2018,Dikabulkan,https://jdih.mkri.id/detail/120,Dikabulkan,False,False,True,False,1
+PUT-0121/2023,Perkara Nomor 121,2022,Ditolak,https://jdih.mkri.id/detail/121,Ditolak,False,False,True,False,0
+PUT-0122/2023,Perkara Nomor 122,2022,Tidak Diterima,https://jdih.mkri.id/detail/122,Tidak Diterima,False,True,False,False,0
+PUT-0123/2023,Perkara Nomor 123,2021,Dikabulkan,https://jdih.mkri.id/detail/123,Dikabulkan,False,True,False,False,1
+PUT-0124/2023,Perkara Nomor 124,2018,Ditolak,https://jdih.mkri.id/detail/124,Ditolak,False,True,False,False,0
+PUT-0125/2023,Perkara Nomor 125,2023,Tidak Diterima,https://jdih.mkri.id/detail/125,Tidak Diterima,False,False,True,False,0
+PUT-0126/2023,Perkara Nomor 126,2020,Ditolak,https://jdih.mkri.id/detail/126,Ditolak,False,False,True,False,0
+PUT-0127/2023,Perkara Nomor 127,2021,Ditolak,https://jdih.mkri.id/detail/127,Ditolak,False,False,True,False,0
+PUT-0128/2023,Perkara Nomor 128,2020,Ditolak,https://jdih.mkri.id/detail/128,Ditolak,False,True,False,False,0
+PUT-0129/2023,Perkara Nomor 129,2018,Tidak Diterima,https://jdih.mkri.id/detail/129,Tidak Diterima,False,False,True,False,0
+PUT-0130/2023,Perkara Nomor 130,2020,Tidak Diterima,https://jdih.mkri.id/detail/130,Tidak Diterima,False,False,True,False,0
+PUT-0131/2023,Perkara Nomor 131,2023,Ditolak,https://jdih.mkri.id/detail/131,Ditolak,False,False,True,False,0
+PUT-0132/2023,Perkara Nomor 132,2021,Dikabulkan,https://jdih.mkri.id/detail/132,Dikabulkan,False,False,True,False,1
+PUT-0133/2023,Perkara Nomor 133,2020,Ditolak,https://jdih.mkri.id/detail/133,Ditolak,False,False,True,False,0
+PUT-0134/2023,Perkara Nomor 134,2023,Ditolak,https://jdih.mkri.id/detail/134,Ditolak,False,False,True,False,0
+PUT-0135/2023,Perkara Nomor 135,2020,Ditolak,https://jdih.mkri.id/detail/135,Ditolak,False,False,True,False,0
+PUT-0136/2023,Perkara Nomor 136,2022,Ditolak,https://jdih.mkri.id/detail/136,Ditolak,False,True,False,False,0
+PUT-0137/2023,Perkara Nomor 137,2020,Tidak Diterima,https://jdih.mkri.id/detail/137,Tidak Diterima,False,True,False,False,0
+PUT-0138/2023,Perkara Nomor 138,2022,Ditolak,https://jdih.mkri.id/detail/138,Ditolak,False,False,True,False,0
+PUT-0139/2023,Perkara Nomor 139,2020,Ditolak,https://jdih.mkri.id/detail/139,Ditolak,False,True,False,False,0
+PUT-0140/2023,Perkara Nomor 140,2020,Dikabulkan,https://jdih.mkri.id/detail/140,Dikabulkan,False,False,True,False,1
+PUT-0141/2023,Perkara Nomor 141,2023,Dikabulkan,https://jdih.mkri.id/detail/141,Dikabulkan,False,False,False,True,1
+PUT-0142/2023,Perkara Nomor 142,2019,Tidak Diterima,https://jdih.mkri.id/detail/142,Tidak Diterima,False,False,True,False,0
+PUT-0143/2023,Perkara Nomor 143,2018,Tidak Diterima,https://jdih.mkri.id/detail/143,Tidak Diterima,False,False,True,False,0
+PUT-0144/2023,Perkara Nomor 144,2018,Ditolak,https://jdih.mkri.id/detail/144,Ditolak,False,False,True,False,0
+PUT-0145/2023,Perkara Nomor 145,2021,Ditolak,https://jdih.mkri.id/detail/145,Ditolak,False,False,True,False,0
+PUT-0146/2023,Perkara Nomor 146,2021,Ditolak,https://jdih.mkri.id/detail/146,Ditolak,False,False,True,False,0
+PUT-0147/2023,Perkara Nomor 147,2022,Tidak Diterima,https://jdih.mkri.id/detail/147,Tidak Diterima,False,True,False,False,0
+PUT-0148/2023,Perkara Nomor 148,2020,Dikabulkan,https://jdih.mkri.id/detail/148,Dikabulkan,False,True,False,False,1
+PUT-0149/2023,Perkara Nomor 149,2021,Ditolak,https://jdih.mkri.id/detail/149,Ditolak,False,True,False,False,0
+PUT-0150/2023,Perkara Nomor 150,2020,Tidak Diterima,https://jdih.mkri.id/detail/150,Tidak Diterima,True,False,False,False,0
+PUT-0151/2023,Perkara Nomor 151,2020,Tidak Diterima,https://jdih.mkri.id/detail/151,Tidak Diterima,True,False,False,False,0
+PUT-0152/2023,Perkara Nomor 152,2019,Dikabulkan,https://jdih.mkri.id/detail/152,Dikabulkan,True,False,False,False,1
+PUT-0153/2023,Perkara Nomor 153,2022,Tidak Diterima,https://jdih.mkri.id/detail/153,Tidak Diterima,True,False,False,False,0
+PUT-0154/2023,Perkara Nomor 154,2022,Tidak Diterima,https://jdih.mkri.id/detail/154,Tidak Diterima,False,False,True,False,0
+PUT-0155/2023,Perkara Nomor 155,2020,Ditolak,https://jdih.mkri.id/detail/155,Ditolak,False,False,True,False,0
+PUT-0156/2023,Perkara Nomor 156,2022,Ditolak,https://jdih.mkri.id/detail/156,Ditolak,False,False,False,True,0
+PUT-0157/2023,Perkara Nomor 157,2022,Tidak Diterima,https://jdih.mkri.id/detail/157,Tidak Diterima,False,False,True,False,0
+PUT-0158/2023,Perkara Nomor 158,2018,Ditolak,https://jdih.mkri.id/detail/158,Ditolak,False,True,False,False,0
+PUT-0159/2023,Perkara Nomor 159,2021,Dikabulkan,https://jdih.mkri.id/detail/159,Dikabulkan,False,False,True,False,1
+PUT-0160/2023,Perkara Nomor 160,2021,Ditolak,https://jdih.mkri.id/detail/160,Ditolak,False,True,False,False,0
+PUT-0161/2023,Perkara Nomor 161,2020,Dikabulkan,https://jdih.mkri.id/detail/161,Dikabulkan,False,True,False,False,1
+PUT-0162/2023,Perkara Nomor 162,2018,Dikabulkan,https://jdih.mkri.id/detail/162,Dikabulkan,False,True,False,False,1
+PUT-0163/2023,Perkara Nomor 163,2022,Ditolak,https://jdih.mkri.id/detail/163,Ditolak,False,True,False,False,0
+PUT-0164/2023,Perkara Nomor 164,2018,Ditolak,https://jdih.mkri.id/detail/164,Ditolak,False,False,True,False,0
+PUT-0165/2023,Perkara Nomor 165,2019,Ditolak,https://jdih.mkri.id/detail/165,Ditolak,False,True,False,False,0
+PUT-0166/2023,Perkara Nomor 166,2022,Dikabulkan,https://jdih.mkri.id/detail/166,Dikabulkan,False,True,False,False,1
+PUT-0167/2023,Perkara Nomor 167,2021,Tidak Diterima,https://jdih.mkri.id/detail/167,Tidak Diterima,False,False,True,False,0
+PUT-0168/2023,Perkara Nomor 168,2020,Ditolak,https://jdih.mkri.id/detail/168,Ditolak,False,True,False,False,0
+PUT-0169/2023,Perkara Nomor 169,2022,Tidak Diterima,https://jdih.mkri.id/detail/169,Tidak Diterima,False,False,True,False,0
+PUT-0170/2023,Perkara Nomor 170,2023,Ditolak,https://jdih.mkri.id/detail/170,Ditolak,False,False,True,False,0
+PUT-0171/2023,Perkara Nomor 171,2020,Ditolak,https://jdih.mkri.id/detail/171,Ditolak,True,False,False,False,0
+PUT-0172/2023,Perkara Nomor 172,2021,Tidak Diterima,https://jdih.mkri.id/detail/172,Tidak Diterima,False,True,False,False,0
+PUT-0173/2023,Perkara Nomor 173,2022,Ditolak,https://jdih.mkri.id/detail/173,Ditolak,False,True,False,False,0
+PUT-0174/2023,Perkara Nomor 174,2022,Tidak Diterima,https://jdih.mkri.id/detail/174,Tidak Diterima,False,False,True,False,0
+PUT-0175/2023,Perkara Nomor 175,2021,Tidak Diterima,https://jdih.mkri.id/detail/175,Tidak Diterima,False,True,False,False,0
+PUT-0176/2023,Perkara Nomor 176,2019,Tidak Diterima,https://jdih.mkri.id/detail/176,Tidak Diterima,False,False,True,False,0
+PUT-0177/2023,Perkara Nomor 177,2018,Ditolak,https://jdih.mkri.id/detail/177,Ditolak,False,True,False,False,0
+PUT-0178/2023,Perkara Nomor 178,2022,Ditolak,https://jdih.mkri.id/detail/178,Ditolak,False,False,True,False,0
+PUT-0179/2023,Perkara Nomor 179,2019,Dikabulkan,https://jdih.mkri.id/detail/179,Dikabulkan,False,True,False,False,1
+PUT-0180/2023,Perkara Nomor 180,2020,Dikabulkan,https://jdih.mkri.id/detail/180,Dikabulkan,False,False,True,False,1
+PUT-0181/2023,Perkara Nomor 181,2020,Tidak Diterima,https://jdih.mkri.id/detail/181,Tidak Diterima,False,False,False,True,0
+PUT-0182/2023,Perkara Nomor 182,2022,Ditolak,https://jdih.mkri.id/detail/182,Ditolak,False,True,False,False,0
+PUT-0183/2023,Perkara Nomor 183,2020,Dikabulkan,https://jdih.mkri.id/detail/183,Dikabulkan,False,True,False,False,1
+PUT-0184/2023,Perkara Nomor 184,2022,Tidak Diterima,https://jdih.mkri.id/detail/184,Tidak Diterima,False,False,True,False,0
+PUT-0185/2023,Perkara Nomor 185,2018,Ditolak,https://jdih.mkri.id/detail/185,Ditolak,False,True,False,False,0
+PUT-0186/2023,Perkara Nomor 186,2018,Tidak Diterima,https://jdih.mkri.id/detail/186,Tidak Diterima,False,True,False,False,0
+PUT-0187/2023,Perkara Nomor 187,2023,Ditolak,https://jdih.mkri.id/detail/187,Ditolak,False,False,True,False,0
+PUT-0188/2023,Perkara Nomor 188,2020,Ditolak,https://jdih.mkri.id/detail/188,Ditolak,False,False,True,False,0
+PUT-0189/2023,Perkara Nomor 189,2019,Dikabulkan,https://jdih.mkri.id/detail/189,Dikabulkan,False,False,True,False,1
+PUT-0190/2023,Perkara Nomor 190,2021,Tidak Diterima,https://jdih.mkri.id/detail/190,Tidak Diterima,False,True,False,False,0
+PUT-0191/2023,Perkara Nomor 191,2022,Dikabulkan,https://jdih.mkri.id/detail/191,Dikabulkan,False,False,True,False,1
+PUT-0192/2023,Perkara Nomor 192,2021,Dikabulkan,https://jdih.mkri.id/detail/192,Dikabulkan,False,False,True,False,1
+PUT-0193/2023,Perkara Nomor 193,2019,Dikabulkan,https://jdih.mkri.id/detail/193,Dikabulkan,False,True,False,False,1
+PUT-0194/2023,Perkara Nomor 194,2021,Dikabulkan,https://jdih.mkri.id/detail/194,Dikabulkan,False,False,False,True,1
+PUT-0195/2023,Perkara Nomor 195,2022,Dikabulkan,https://jdih.mkri.id/detail/195,Dikabulkan,False,True,False,False,1
+PUT-0196/2023,Perkara Nomor 196,2021,Dikabulkan,https://jdih.mkri.id/detail/196,Dikabulkan,False,False,True,False,1
+PUT-0197/2023,Perkara Nomor 197,2022,Ditolak,https://jdih.mkri.id/detail/197,Ditolak,False,True,False,False,0
+PUT-0198/2023,Perkara Nomor 198,2021,Dikabulkan,https://jdih.mkri.id/detail/198,Dikabulkan,False,False,True,False,1
+PUT-0199/2023,Perkara Nomor 199,2020,Dikabulkan,https://jdih.mkri.id/detail/199,Dikabulkan,False,True,False,False,1
+PUT-0200/2023,Perkara Nomor 200,2019,Ditolak,https://jdih.mkri.id/detail/200,Ditolak,False,True,False,False,0
+PUT-0201/2023,Perkara Nomor 201,2021,Ditolak,https://jdih.mkri.id/detail/201,Ditolak,False,True,False,False,0
+PUT-0202/2023,Perkara Nomor 202,2019,Tidak Diterima,https://jdih.mkri.id/detail/202,Tidak Diterima,False,False,True,False,0
+PUT-0203/2023,Perkara Nomor 203,2020,Dikabulkan,https://jdih.mkri.id/detail/203,Dikabulkan,True,False,False,False,1
+PUT-0204/2023,Perkara Nomor 204,2019,Dikabulkan,https://jdih.mkri.id/detail/204,Dikabulkan,True,False,False,False,1
+PUT-0205/2023,Perkara Nomor 205,2020,Ditolak,https://jdih.mkri.id/detail/205,Ditolak,False,True,False,False,0
+PUT-0206/2023,Perkara Nomor 206,2018,Dikabulkan,https://jdih.mkri.id/detail/206,Dikabulkan,False,False,True,False,1
+PUT-0207/2023,Perkara Nomor 207,2019,Tidak Diterima,https://jdih.mkri.id/detail/207,Tidak Diterima,False,False,False,True,0
+PUT-0208/2023,Perkara Nomor 208,2019,Tidak Diterima,https://jdih.mkri.id/detail/208,Tidak Diterima,False,False,True,False,0
+PUT-0209/2023,Perkara Nomor 209,2021,Tidak Diterima,https://jdih.mkri.id/detail/209,Tidak Diterima,True,False,False,False,0
+PUT-0210/2023,Perkara Nomor 210,2019,Tidak Diterima,https://jdih.mkri.id/detail/210,Tidak Diterima,False,False,True,False,0
+PUT-0211/2023,Perkara Nomor 211,2020,Ditolak,https://jdih.mkri.id/detail/211,Ditolak,True,False,False,False,0
+PUT-0212/2023,Perkara Nomor 212,2019,Ditolak,https://jdih.mkri.id/detail/212,Ditolak,False,False,False,True,0
+PUT-0213/2023,Perkara Nomor 213,2019,Tidak Diterima,https://jdih.mkri.id/detail/213,Tidak Diterima,False,False,False,True,0
+PUT-0214/2023,Perkara Nomor 214,2022,Ditolak,https://jdih.mkri.id/detail/214,Ditolak,False,True,False,False,0
+PUT-0215/2023,Perkara Nomor 215,2020,Ditolak,https://jdih.mkri.id/detail/215,Ditolak,False,False,True,False,0
+PUT-0216/2023,Perkara Nomor 216,2021,Ditolak,https://jdih.mkri.id/detail/216,Ditolak,False,False,True,False,0
+PUT-0217/2023,Perkara Nomor 217,2019,Tidak Diterima,https://jdih.mkri.id/detail/217,Tidak Diterima,False,False,True,False,0
+PUT-0218/2023,Perkara Nomor 218,2018,Ditolak,https://jdih.mkri.id/detail/218,Ditolak,False,False,True,False,0
+PUT-0219/2023,Perkara Nomor 219,2018,Dikabulkan,https://jdih.mkri.id/detail/219,Dikabulkan,False,False,True,False,1
+PUT-0220/2023,Perkara Nomor 220,2022,Dikabulkan,https://jdih.mkri.id/detail/220,Dikabulkan,False,False,True,False,1
+PUT-0221/2023,Perkara Nomor 221,2022,Dikabulkan,https://jdih.mkri.id/detail/221,Dikabulkan,False,False,False,True,1
+PUT-0222/2023,Perkara Nomor 222,2021,Dikabulkan,https://jdih.mkri.id/detail/222,Dikabulkan,False,True,False,False,1
+PUT-0223/2023,Perkara Nomor 223,2022,Dikabulkan,https://jdih.mkri.id/detail/223,Dikabulkan,False,True,False,False,1
+PUT-0224/2023,Perkara Nomor 224,2022,Tidak Diterima,https://jdih.mkri.id/detail/224,Tidak Diterima,False,True,False,False,0
+PUT-0225/2023,Perkara Nomor 225,2022,Ditolak,https://jdih.mkri.id/detail/225,Ditolak,False,True,False,False,0
+PUT-0226/2023,Perkara Nomor 226,2018,Tidak Diterima,https://jdih.mkri.id/detail/226,Tidak Diterima,False,False,True,False,0
+PUT-0227/2023,Perkara Nomor 227,2021,Ditolak,https://jdih.mkri.id/detail/227,Ditolak,False,True,False,False,0
+PUT-0228/2023,Perkara Nomor 228,2023,Tidak Diterima,https://jdih.mkri.id/detail/228,Tidak Diterima,False,False,True,False,0
+PUT-0229/2023,Perkara Nomor 229,2019,Dikabulkan,https://jdih.mkri.id/detail/229,Dikabulkan,False,False,True,False,1
+PUT-0230/2023,Perkara Nomor 230,2020,Ditolak,https://jdih.mkri.id/detail/230,Ditolak,False,False,True,False,0
+PUT-0231/2023,Perkara Nomor 231,2018,Ditolak,https://jdih.mkri.id/detail/231,Ditolak,False,False,True,False,0
+PUT-0232/2023,Perkara Nomor 232,2021,Ditolak,https://jdih.mkri.id/detail/232,Ditolak,True,False,False,False,0
+PUT-0233/2023,Perkara Nomor 233,2023,Ditolak,https://jdih.mkri.id/detail/233,Ditolak,False,True,False,False,0
+PUT-0234/2023,Perkara Nomor 234,2023,Ditolak,https://jdih.mkri.id/detail/234,Ditolak,False,False,False,True,0
+PUT-0235/2023,Perkara Nomor 235,2023,Ditolak,https://jdih.mkri.id/detail/235,Ditolak,False,False,True,False,0
+PUT-0236/2023,Perkara Nomor 236,2019,Ditolak,https://jdih.mkri.id/detail/236,Ditolak,False,True,False,False,0
+PUT-0237/2023,Perkara Nomor 237,2022,Dikabulkan,https://jdih.mkri.id/detail/237,Dikabulkan,False,False,True,False,1
+PUT-0238/2023,Perkara Nomor 238,2018,Dikabulkan,https://jdih.mkri.id/detail/238,Dikabulkan,False,False,True,False,1
+PUT-0239/2023,Perkara Nomor 239,2022,Tidak Diterima,https://jdih.mkri.id/detail/239,Tidak Diterima,False,False,True,False,0
+PUT-0240/2023,Perkara Nomor 240,2020,Tidak Diterima,https://jdih.mkri.id/detail/240,Tidak Diterima,False,True,False,False,0
+PUT-0241/2023,Perkara Nomor 241,2022,Ditolak,https://jdih.mkri.id/detail/241,Ditolak,False,False,True,False,0
+PUT-0242/2023,Perkara Nomor 242,2023,Ditolak,https://jdih.mkri.id/detail/242,Ditolak,False,True,False,False,0
+PUT-0243/2023,Perkara Nomor 243,2021,Dikabulkan,https://jdih.mkri.id/detail/243,Dikabulkan,False,False,True,False,1
+PUT-0244/2023,Perkara Nomor 244,2019,Dikabulkan,https://jdih.mkri.id/detail/244,Dikabulkan,False,True,False,False,1
+PUT-0245/2023,Perkara Nomor 245,2023,Tidak Diterima,https://jdih.mkri.id/detail/245,Tidak Diterima,False,True,False,False,0
+PUT-0246/2023,Perkara Nomor 246,2021,Dikabulkan,https://jdih.mkri.id/detail/246,Dikabulkan,False,False,True,False,1
+PUT-0247/2023,Perkara Nomor 247,2018,Tidak Diterima,https://jdih.mkri.id/detail/247,Tidak Diterima,False,False,True,False,0
+PUT-0248/2023,Perkara Nomor 248,2019,Ditolak,https://jdih.mkri.id/detail/248,Ditolak,False,False,True,False,0
+PUT-0249/2023,Perkara Nomor 249,2021,Ditolak,https://jdih.mkri.id/detail/249,Ditolak,False,True,False,False,0
+PUT-0250/2023,Perkara Nomor 250,2021,Ditolak,https://jdih.mkri.id/detail/250,Ditolak,False,True,False,False,0
+PUT-0251/2023,Perkara Nomor 251,2021,Dikabulkan,https://jdih.mkri.id/detail/251,Dikabulkan,False,False,False,True,1
+PUT-0252/2023,Perkara Nomor 252,2021,Dikabulkan,https://jdih.mkri.id/detail/252,Dikabulkan,False,False,True,False,1
+PUT-0253/2023,Perkara Nomor 253,2020,Tidak Diterima,https://jdih.mkri.id/detail/253,Tidak Diterima,False,False,True,False,0
+PUT-0254/2023,Perkara Nomor 254,2021,Ditolak,https://jdih.mkri.id/detail/254,Ditolak,False,True,False,False,0
+PUT-0255/2023,Perkara Nomor 255,2021,Dikabulkan,https://jdih.mkri.id/detail/255,Dikabulkan,False,False,True,False,1
+PUT-0256/2023,Perkara Nomor 256,2023,Dikabulkan,https://jdih.mkri.id/detail/256,Dikabulkan,False,True,False,False,1
+PUT-0257/2023,Perkara Nomor 257,2023,Dikabulkan,https://jdih.mkri.id/detail/257,Dikabulkan,False,False,True,False,1
+PUT-0258/2023,Perkara Nomor 258,2020,Dikabulkan,https://jdih.mkri.id/detail/258,Dikabulkan,False,True,False,False,1
+PUT-0259/2023,Perkara Nomor 259,2022,Dikabulkan,https://jdih.mkri.id/detail/259,Dikabulkan,False,True,False,False,1
+PUT-0260/2023,Perkara Nomor 260,2021,Dikabulkan,https://jdih.mkri.id/detail/260,Dikabulkan,False,False,True,False,1
+PUT-0261/2023,Perkara Nomor 261,2021,Ditolak,https://jdih.mkri.id/detail/261,Ditolak,False,False,True,False,0
+PUT-0262/2023,Perkara Nomor 262,2023,Ditolak,https://jdih.mkri.id/detail/262,Ditolak,False,False,True,False,0
+PUT-0263/2023,Perkara Nomor 263,2022,Ditolak,https://jdih.mkri.id/detail/263,Ditolak,True,False,False,False,0
+PUT-0264/2023,Perkara Nomor 264,2020,Tidak Diterima,https://jdih.mkri.id/detail/264,Tidak Diterima,False,True,False,False,0
+PUT-0265/2023,Perkara Nomor 265,2020,Dikabulkan,https://jdih.mkri.id/detail/265,Dikabulkan,False,True,False,False,1
+PUT-0266/2023,Perkara Nomor 266,2022,Dikabulkan,https://jdih.mkri.id/detail/266,Dikabulkan,True,False,False,False,1
+PUT-0267/2023,Perkara Nomor 267,2022,Tidak Diterima,https://jdih.mkri.id/detail/267,Tidak Diterima,False,True,False,False,0
+PUT-0268/2023,Perkara Nomor 268,2023,Dikabulkan,https://jdih.mkri.id/detail/268,Dikabulkan,False,False,True,False,1
+PUT-0269/2023,Perkara Nomor 269,2020,Tidak Diterima,https://jdih.mkri.id/detail/269,Tidak Diterima,False,True,False,False,0
+PUT-0270/2023,Perkara Nomor 270,2018,Dikabulkan,https://jdih.mkri.id/detail/270,Dikabulkan,False,False,True,False,1
+PUT-0271/2023,Perkara Nomor 271,2021,Ditolak,https://jdih.mkri.id/detail/271,Ditolak,False,True,False,False,0
+PUT-0272/2023,Perkara Nomor 272,2021,Tidak Diterima,https://jdih.mkri.id/detail/272,Tidak Diterima,False,False,True,False,0
+PUT-0273/2023,Perkara Nomor 273,2021,Ditolak,https://jdih.mkri.id/detail/273,Ditolak,False,False,False,True,0
+PUT-0274/2023,Perkara Nomor 274,2022,Tidak Diterima,https://jdih.mkri.id/detail/274,Tidak Diterima,False,False,True,False,0
+PUT-0275/2023,Perkara Nomor 275,2023,Tidak Diterima,https://jdih.mkri.id/detail/275,Tidak Diterima,False,False,True,False,0
+PUT-0276/2023,Perkara Nomor 276,2018,Tidak Diterima,https://jdih.mkri.id/detail/276,Tidak Diterima,False,False,False,True,0
+PUT-0277/2023,Perkara Nomor 277,2021,Ditolak,https://jdih.mkri.id/detail/277,Ditolak,False,False,True,False,0
+PUT-0278/2023,Perkara Nomor 278,2018,Dikabulkan,https://jdih.mkri.id/detail/278,Dikabulkan,False,False,True,False,1
+PUT-0279/2023,Perkara Nomor 279,2023,Ditolak,https://jdih.mkri.id/detail/279,Ditolak,False,False,False,True,0
+PUT-0280/2023,Perkara Nomor 280,2020,Ditolak,https://jdih.mkri.id/detail/280,Ditolak,False,True,False,False,0
+PUT-0281/2023,Perkara Nomor 281,2020,Ditolak,https://jdih.mkri.id/detail/281,Ditolak,False,False,True,False,0
+PUT-0282/2023,Perkara Nomor 282,2023,Dikabulkan,https://jdih.mkri.id/detail/282,Dikabulkan,False,False,True,False,1
+PUT-0283/2023,Perkara Nomor 283,2020,Tidak Diterima,https://jdih.mkri.id/detail/283,Tidak Diterima,False,False,True,False,0
+PUT-0284/2023,Perkara Nomor 284,2019,Ditolak,https://jdih.mkri.id/detail/284,Ditolak,False,True,False,False,0
+PUT-0285/2023,Perkara Nomor 285,2021,Dikabulkan,https://jdih.mkri.id/detail/285,Dikabulkan,False,False,True,False,1
+PUT-0286/2023,Perkara Nomor 286,2019,Dikabulkan,https://jdih.mkri.id/detail/286,Dikabulkan,False,True,False,False,1
+PUT-0287/2023,Perkara Nomor 287,2020,Ditolak,https://jdih.mkri.id/detail/287,Ditolak,False,True,False,False,0
+PUT-0288/2023,Perkara Nomor 288,2022,Tidak Diterima,https://jdih.mkri.id/detail/288,Tidak Diterima,True,False,False,False,0
+PUT-0289/2023,Perkara Nomor 289,2018,Tidak Diterima,https://jdih.mkri.id/detail/289,Tidak Diterima,False,False,True,False,0
+PUT-0290/2023,Perkara Nomor 290,2020,Ditolak,https://jdih.mkri.id/detail/290,Ditolak,False,True,False,False,0
+PUT-0291/2023,Perkara Nomor 291,2021,Dikabulkan,https://jdih.mkri.id/detail/291,Dikabulkan,False,False,True,False,1
+PUT-0292/2023,Perkara Nomor 292,2018,Tidak Diterima,https://jdih.mkri.id/detail/292,Tidak Diterima,False,True,False,False,0
+PUT-0293/2023,Perkara Nomor 293,2022,Dikabulkan,https://jdih.mkri.id/detail/293,Dikabulkan,False,False,True,False,1
+PUT-0294/2023,Perkara Nomor 294,2022,Tidak Diterima,https://jdih.mkri.id/detail/294,Tidak Diterima,False,False,True,False,0
+PUT-0295/2023,Perkara Nomor 295,2023,Tidak Diterima,https://jdih.mkri.id/detail/295,Tidak Diterima,False,False,False,True,0
+PUT-0296/2023,Perkara Nomor 296,2021,Ditolak,https://jdih.mkri.id/detail/296,Ditolak,False,False,True,False,0
+PUT-0297/2023,Perkara Nomor 297,2023,Tidak Diterima,https://jdih.mkri.id/detail/297,Tidak Diterima,False,True,False,False,0
+PUT-0298/2023,Perkara Nomor 298,2021,Ditolak,https://jdih.mkri.id/detail/298,Ditolak,False,False,True,False,0
+PUT-0299/2023,Perkara Nomor 299,2018,Ditolak,https://jdih.mkri.id/detail/299,Ditolak,False,False,True,False,0
+PUT-0300/2023,Perkara Nomor 300,2021,Ditolak,https://jdih.mkri.id/detail/300,Ditolak,False,False,True,False,0
+PUT-0301/2023,Perkara Nomor 301,2021,Dikabulkan,https://jdih.mkri.id/detail/301,Dikabulkan,True,False,False,False,1
+PUT-0302/2023,Perkara Nomor 302,2022,Dikabulkan,https://jdih.mkri.id/detail/302,Dikabulkan,False,False,True,False,1
+PUT-0303/2023,Perkara Nomor 303,2020,Ditolak,https://jdih.mkri.id/detail/303,Ditolak,False,False,True,False,0
+PUT-0304/2023,Perkara Nomor 304,2021,Dikabulkan,https://jdih.mkri.id/detail/304,Dikabulkan,False,False,True,False,1
+PUT-0305/2023,Perkara Nomor 305,2022,Ditolak,https://jdih.mkri.id/detail/305,Ditolak,False,True,False,False,0
+PUT-0306/2023,Perkara Nomor 306,2022,Dikabulkan,https://jdih.mkri.id/detail/306,Dikabulkan,False,False,True,False,1
+PUT-0307/2023,Perkara Nomor 307,2021,Dikabulkan,https://jdih.mkri.id/detail/307,Dikabulkan,False,True,False,False,1
+PUT-0308/2023,Perkara Nomor 308,2022,Dikabulkan,https://jdih.mkri.id/detail/308,Dikabulkan,False,False,True,False,1
+PUT-0309/2023,Perkara Nomor 309,2021,Ditolak,https://jdih.mkri.id/detail/309,Ditolak,False,True,False,False,0
+PUT-0310/2023,Perkara Nomor 310,2020,Tidak Diterima,https://jdih.mkri.id/detail/310,Tidak Diterima,True,False,False,False,0
+PUT-0311/2023,Perkara Nomor 311,2022,Dikabulkan,https://jdih.mkri.id/detail/311,Dikabulkan,False,False,True,False,1
+PUT-0312/2023,Perkara Nomor 312,2022,Ditolak,https://jdih.mkri.id/detail/312,Ditolak,False,True,False,False,0
+PUT-0313/2023,Perkara Nomor 313,2022,Dikabulkan,https://jdih.mkri.id/detail/313,Dikabulkan,True,False,False,False,1
+PUT-0314/2023,Perkara Nomor 314,2022,Tidak Diterima,https://jdih.mkri.id/detail/314,Tidak Diterima,False,False,True,False,0
+PUT-0315/2023,Perkara Nomor 315,2018,Tidak Diterima,https://jdih.mkri.id/detail/315,Tidak Diterima,False,False,True,False,0
+PUT-0316/2023,Perkara Nomor 316,2020,Ditolak,https://jdih.mkri.id/detail/316,Ditolak,False,False,True,False,0
+PUT-0317/2023,Perkara Nomor 317,2020,Dikabulkan,https://jdih.mkri.id/detail/317,Dikabulkan,False,False,True,False,1
+PUT-0318/2023,Perkara Nomor 318,2019,Dikabulkan,https://jdih.mkri.id/detail/318,Dikabulkan,False,True,False,False,1
+PUT-0319/2023,Perkara Nomor 319,2023,Dikabulkan,https://jdih.mkri.id/detail/319,Dikabulkan,False,True,False,False,1
+PUT-0320/2023,Perkara Nomor 320,2018,Dikabulkan,https://jdih.mkri.id/detail/320,Dikabulkan,False,True,False,False,1
+PUT-0321/2023,Perkara Nomor 321,2020,Dikabulkan,https://jdih.mkri.id/detail/321,Dikabulkan,False,True,False,False,1
+PUT-0322/2023,Perkara Nomor 322,2021,Ditolak,https://jdih.mkri.id/detail/322,Ditolak,False,False,True,False,0
+PUT-0323/2023,Perkara Nomor 323,2018,Ditolak,https://jdih.mkri.id/detail/323,Ditolak,False,True,False,False,0
+PUT-0324/2023,Perkara Nomor 324,2021,Dikabulkan,https://jdih.mkri.id/detail/324,Dikabulkan,False,True,False,False,1
+PUT-0325/2023,Perkara Nomor 325,2020,Dikabulkan,https://jdih.mkri.id/detail/325,Dikabulkan,False,True,False,False,1
+PUT-0326/2023,Perkara Nomor 326,2021,Ditolak,https://jdih.mkri.id/detail/326,Ditolak,False,False,True,False,0
+PUT-0327/2023,Perkara Nomor 327,2018,Ditolak,https://jdih.mkri.id/detail/327,Ditolak,False,False,True,False,0
+PUT-0328/2023,Perkara Nomor 328,2022,Ditolak,https://jdih.mkri.id/detail/328,Ditolak,False,False,True,False,0
+PUT-0329/2023,Perkara Nomor 329,2020,Ditolak,https://jdih.mkri.id/detail/329,Ditolak,True,False,False,False,0
+PUT-0330/2023,Perkara Nomor 330,2019,Dikabulkan,https://jdih.mkri.id/detail/330,Dikabulkan,False,False,True,False,1
+PUT-0331/2023,Perkara Nomor 331,2020,Tidak Diterima,https://jdih.mkri.id/detail/331,Tidak Diterima,False,False,True,False,0
+PUT-0332/2023,Perkara Nomor 332,2020,Tidak Diterima,https://jdih.mkri.id/detail/332,Tidak Diterima,False,False,False,True,0
+PUT-0333/2023,Perkara Nomor 333,2021,Tidak Diterima,https://jdih.mkri.id/detail/333,Tidak Diterima,False,False,True,False,0
+PUT-0334/2023,Perkara Nomor 334,2021,Tidak Diterima,https://jdih.mkri.id/detail/334,Tidak Diterima,False,True,False,False,0
+PUT-0335/2023,Perkara Nomor 335,2020,Ditolak,https://jdih.mkri.id/detail/335,Ditolak,True,False,False,False,0
+PUT-0336/2023,Perkara Nomor 336,2023,Dikabulkan,https://jdih.mkri.id/detail/336,Dikabulkan,False,True,False,False,1
+PUT-0337/2023,Perkara Nomor 337,2020,Ditolak,https://jdih.mkri.id/detail/337,Ditolak,False,False,True,False,0
+PUT-0338/2023,Perkara Nomor 338,2020,Ditolak,https://jdih.mkri.id/detail/338,Ditolak,False,False,True,False,0
+PUT-0339/2023,Perkara Nomor 339,2021,Tidak Diterima,https://jdih.mkri.id/detail/339,Tidak Diterima,False,True,False,False,0
+PUT-0340/2023,Perkara Nomor 340,2021,Dikabulkan,https://jdih.mkri.id/detail/340,Dikabulkan,False,True,False,False,1
+PUT-0341/2023,Perkara Nomor 341,2022,Ditolak,https://jdih.mkri.id/detail/341,Ditolak,False,True,False,False,0
+PUT-0342/2023,Perkara Nomor 342,2020,Ditolak,https://jdih.mkri.id/detail/342,Ditolak,False,False,True,False,0
+PUT-0343/2023,Perkara Nomor 343,2018,Dikabulkan,https://jdih.mkri.id/detail/343,Dikabulkan,False,False,False,True,1
+PUT-0344/2023,Perkara Nomor 344,2020,Ditolak,https://jdih.mkri.id/detail/344,Ditolak,False,False,True,False,0
+PUT-0345/2023,Perkara Nomor 345,2021,Tidak Diterima,https://jdih.mkri.id/detail/345,Tidak Diterima,False,True,False,False,0
+PUT-0346/2023,Perkara Nomor 346,2021,Ditolak,https://jdih.mkri.id/detail/346,Ditolak,False,False,True,False,0
+PUT-0347/2023,Perkara Nomor 347,2019,Tidak Diterima,https://jdih.mkri.id/detail/347,Tidak Diterima,False,False,True,False,0
+PUT-0348/2023,Perkara Nomor 348,2023,Dikabulkan,https://jdih.mkri.id/detail/348,Dikabulkan,False,False,True,False,1
+PUT-0349/2023,Perkara Nomor 349,2022,Dikabulkan,https://jdih.mkri.id/detail/349,Dikabulkan,False,False,True,False,1
+PUT-0350/2023,Perkara Nomor 350,2020,Tidak Diterima,https://jdih.mkri.id/detail/350,Tidak Diterima,False,False,True,False,0
+PUT-0351/2023,Perkara Nomor 351,2022,Ditolak,https://jdih.mkri.id/detail/351,Ditolak,False,False,True,False,0
+PUT-0352/2023,Perkara Nomor 352,2023,Tidak Diterima,https://jdih.mkri.id/detail/352,Tidak Diterima,False,True,False,False,0
+PUT-0353/2023,Perkara Nomor 353,2018,Dikabulkan,https://jdih.mkri.id/detail/353,Dikabulkan,False,False,True,False,1
+PUT-0354/2023,Perkara Nomor 354,2019,Dikabulkan,https://jdih.mkri.id/detail/354,Dikabulkan,False,True,False,False,1
+PUT-0355/2023,Perkara Nomor 355,2020,Tidak Diterima,https://jdih.mkri.id/detail/355,Tidak Diterima,True,False,False,False,0
+PUT-0356/2023,Perkara Nomor 356,2020,Ditolak,https://jdih.mkri.id/detail/356,Ditolak,False,False,True,False,0
+PUT-0357/2023,Perkara Nomor 357,2022,Tidak Diterima,https://jdih.mkri.id/detail/357,Tidak Diterima,True,False,False,False,0
+PUT-0358/2023,Perkara Nomor 358,2018,Tidak Diterima,https://jdih.mkri.id/detail/358,Tidak Diterima,False,True,False,False,0
+PUT-0359/2023,Perkara Nomor 359,2020,Dikabulkan,https://jdih.mkri.id/detail/359,Dikabulkan,False,False,True,False,1
+PUT-0360/2023,Perkara Nomor 360,2022,Ditolak,https://jdih.mkri.id/detail/360,Ditolak,False,True,False,False,0
+PUT-0361/2023,Perkara Nomor 361,2022,Tidak Diterima,https://jdih.mkri.id/detail/361,Tidak Diterima,False,False,True,False,0
+PUT-0362/2023,Perkara Nomor 362,2021,Ditolak,https://jdih.mkri.id/detail/362,Ditolak,True,False,False,False,0
+PUT-0363/2023,Perkara Nomor 363,2018,Dikabulkan,https://jdih.mkri.id/detail/363,Dikabulkan,False,False,True,False,1
+PUT-0364/2023,Perkara Nomor 364,2021,Dikabulkan,https://jdih.mkri.id/detail/364,Dikabulkan,False,True,False,False,1
+PUT-0365/2023,Perkara Nomor 365,2021,Ditolak,https://jdih.mkri.id/detail/365,Ditolak,False,False,False,True,0
+PUT-0366/2023,Perkara Nomor 366,2020,Tidak Diterima,https://jdih.mkri.id/detail/366,Tidak Diterima,False,False,True,False,0
+PUT-0367/2023,Perkara Nomor 367,2020,Dikabulkan,https://jdih.mkri.id/detail/367,Dikabulkan,False,True,False,False,1
+PUT-0368/2023,Perkara Nomor 368,2021,Tidak Diterima,https://jdih.mkri.id/detail/368,Tidak Diterima,False,True,False,False,0
+PUT-0369/2023,Perkara Nomor 369,2019,Tidak Diterima,https://jdih.mkri.id/detail/369,Tidak Diterima,False,False,True,False,0
+PUT-0370/2023,Perkara Nomor 370,2021,Tidak Diterima,https://jdih.mkri.id/detail/370,Tidak Diterima,True,False,False,False,0
+PUT-0371/2023,Perkara Nomor 371,2022,Dikabulkan,https://jdih.mkri.id/detail/371,Dikabulkan,True,False,False,False,1
+PUT-0372/2023,Perkara Nomor 372,2019,Ditolak,https://jdih.mkri.id/detail/372,Ditolak,False,False,True,False,0
+PUT-0373/2023,Perkara Nomor 373,2022,Tidak Diterima,https://jdih.mkri.id/detail/373,Tidak Diterima,False,True,False,False,0
+PUT-0374/2023,Perkara Nomor 374,2022,Dikabulkan,https://jdih.mkri.id/detail/374,Dikabulkan,False,True,False,False,1
+PUT-0375/2023,Perkara Nomor 375,2021,Dikabulkan,https://jdih.mkri.id/detail/375,Dikabulkan,False,True,False,False,1
+PUT-0376/2023,Perkara Nomor 376,2018,Tidak Diterima,https://jdih.mkri.id/detail/376,Tidak Diterima,False,True,False,False,0
+PUT-0377/2023,Perkara Nomor 377,2023,Dikabulkan,https://jdih.mkri.id/detail/377,Dikabulkan,False,True,False,False,1
+PUT-0378/2023,Perkara Nomor 378,2022,Tidak Diterima,https://jdih.mkri.id/detail/378,Tidak Diterima,False,True,False,False,0
+PUT-0379/2023,Perkara Nomor 379,2018,Dikabulkan,https://jdih.mkri.id/detail/379,Dikabulkan,False,False,True,False,1
+PUT-0380/2023,Perkara Nomor 380,2022,Ditolak,https://jdih.mkri.id/detail/380,Ditolak,False,True,False,False,0
+PUT-0381/2023,Perkara Nomor 381,2023,Tidak Diterima,https://jdih.mkri.id/detail/381,Tidak Diterima,False,True,False,False,0
+PUT-0382/2023,Perkara Nomor 382,2020,Dikabulkan,https://jdih.mkri.id/detail/382,Dikabulkan,False,True,False,False,1
+PUT-0383/2023,Perkara Nomor 383,2019,Tidak Diterima,https://jdih.mkri.id/detail/383,Tidak Diterima,False,False,True,False,0
+PUT-0384/2023,Perkara Nomor 384,2022,Dikabulkan,https://jdih.mkri.id/detail/384,Dikabulkan,False,True,False,False,1
+PUT-0385/2023,Perkara Nomor 385,2019,Ditolak,https://jdih.mkri.id/detail/385,Ditolak,False,False,True,False,0
+PUT-0386/2023,Perkara Nomor 386,2019,Ditolak,https://jdih.mkri.id/detail/386,Ditolak,False,False,False,True,0
+PUT-0387/2023,Perkara Nomor 387,2020,Dikabulkan,https://jdih.mkri.id/detail/387,Dikabulkan,False,False,True,False,1
+PUT-0388/2023,Perkara Nomor 388,2018,Dikabulkan,https://jdih.mkri.id/detail/388,Dikabulkan,False,False,False,True,1
+PUT-0389/2023,Perkara Nomor 389,2023,Ditolak,https://jdih.mkri.id/detail/389,Ditolak,False,False,True,False,0
+PUT-0390/2023,Perkara Nomor 390,2023,Ditolak,https://jdih.mkri.id/detail/390,Ditolak,False,False,False,True,0
+PUT-0391/2023,Perkara Nomor 391,2021,Dikabulkan,https://jdih.mkri.id/detail/391,Dikabulkan,False,True,False,False,1
+PUT-0392/2023,Perkara Nomor 392,2019,Tidak Diterima,https://jdih.mkri.id/detail/392,Tidak Diterima,False,False,True,False,0
+PUT-0393/2023,Perkara Nomor 393,2018,Ditolak,https://jdih.mkri.id/detail/393,Ditolak,False,False,False,True,0
+PUT-0394/2023,Perkara Nomor 394,2021,Tidak Diterima,https://jdih.mkri.id/detail/394,Tidak Diterima,False,False,True,False,0
+PUT-0395/2023,Perkara Nomor 395,2022,Ditolak,https://jdih.mkri.id/detail/395,Ditolak,False,False,True,False,0
+PUT-0396/2023,Perkara Nomor 396,2020,Tidak Diterima,https://jdih.mkri.id/detail/396,Tidak Diterima,False,True,False,False,0
+PUT-0397/2023,Perkara Nomor 397,2020,Dikabulkan,https://jdih.mkri.id/detail/397,Dikabulkan,False,False,True,False,1
+PUT-0398/2023,Perkara Nomor 398,2018,Ditolak,https://jdih.mkri.id/detail/398,Ditolak,False,False,True,False,0
+PUT-0399/2023,Perkara Nomor 399,2021,Ditolak,https://jdih.mkri.id/detail/399,Ditolak,True,False,False,False,0
+PUT-0400/2023,Perkara Nomor 400,2018,Ditolak,https://jdih.mkri.id/detail/400,Ditolak,False,True,False,False,0
+PUT-0401/2023,Perkara Nomor 401,2021,Dikabulkan,https://jdih.mkri.id/detail/401,Dikabulkan,True,False,False,False,1
+PUT-0402/2023,Perkara Nomor 402,2022,Ditolak,https://jdih.mkri.id/detail/402,Ditolak,False,False,True,False,0
+PUT-0403/2023,Perkara Nomor 403,2022,Tidak Diterima,https://jdih.mkri.id/detail/403,Tidak Diterima,False,False,True,False,0
+PUT-0404/2023,Perkara Nomor 404,2021,Tidak Diterima,https://jdih.mkri.id/detail/404,Tidak Diterima,False,False,True,False,0
+PUT-0405/2023,Perkara Nomor 405,2021,Ditolak,https://jdih.mkri.id/detail/405,Ditolak,False,True,False,False,0
+PUT-0406/2023,Perkara Nomor 406,2022,Ditolak,https://jdih.mkri.id/detail/406,Ditolak,False,False,True,False,0
+PUT-0407/2023,Perkara Nomor 407,2020,Dikabulkan,https://jdih.mkri.id/detail/407,Dikabulkan,True,False,False,False,1
+PUT-0408/2023,Perkara Nomor 408,2023,Ditolak,https://jdih.mkri.id/detail/408,Ditolak,False,True,False,False,0
+PUT-0409/2023,Perkara Nomor 409,2022,Tidak Diterima,https://jdih.mkri.id/detail/409,Tidak Diterima,False,True,False,False,0
+PUT-0410/2023,Perkara Nomor 410,2020,Ditolak,https://jdih.mkri.id/detail/410,Ditolak,False,True,False,False,0
+PUT-0411/2023,Perkara Nomor 411,2019,Dikabulkan,https://jdih.mkri.id/detail/411,Dikabulkan,False,False,True,False,1
+PUT-0412/2023,Perkara Nomor 412,2021,Ditolak,https://jdih.mkri.id/detail/412,Ditolak,False,True,False,False,0
+PUT-0413/2023,Perkara Nomor 413,2023,Ditolak,https://jdih.mkri.id/detail/413,Ditolak,False,False,True,False,0
+PUT-0414/2023,Perkara Nomor 414,2018,Ditolak,https://jdih.mkri.id/detail/414,Ditolak,False,True,False,False,0
+PUT-0415/2023,Perkara Nomor 415,2018,Tidak Diterima,https://jdih.mkri.id/detail/415,Tidak Diterima,False,False,True,False,0
+PUT-0416/2023,Perkara Nomor 416,2023,Ditolak,https://jdih.mkri.id/detail/416,Ditolak,False,True,False,False,0
+PUT-0417/2023,Perkara Nomor 417,2023,Ditolak,https://jdih.mkri.id/detail/417,Ditolak,False,False,False,True,0
+PUT-0418/2023,Perkara Nomor 418,2022,Tidak Diterima,https://jdih.mkri.id/detail/418,Tidak Diterima,False,False,True,False,0
+PUT-0419/2023,Perkara Nomor 419,2021,Tidak Diterima,https://jdih.mkri.id/detail/419,Tidak Diterima,False,False,True,False,0
+PUT-0420/2023,Perkara Nomor 420,2021,Dikabulkan,https://jdih.mkri.id/detail/420,Dikabulkan,False,False,True,False,1
+PUT-0421/2023,Perkara Nomor 421,2023,Ditolak,https://jdih.mkri.id/detail/421,Ditolak,False,True,False,False,0
+PUT-0422/2023,Perkara Nomor 422,2021,Ditolak,https://jdih.mkri.id/detail/422,Ditolak,False,False,False,True,0
+PUT-0423/2023,Perkara Nomor 423,2020,Dikabulkan,https://jdih.mkri.id/detail/423,Dikabulkan,False,False,True,False,1
+PUT-0424/2023,Perkara Nomor 424,2020,Ditolak,https://jdih.mkri.id/detail/424,Ditolak,False,True,False,False,0
+PUT-0425/2023,Perkara Nomor 425,2022,Dikabulkan,https://jdih.mkri.id/detail/425,Dikabulkan,False,True,False,False,1
+PUT-0426/2023,Perkara Nomor 426,2019,Ditolak,https://jdih.mkri.id/detail/426,Ditolak,False,False,False,True,0
+PUT-0427/2023,Perkara Nomor 427,2021,Ditolak,https://jdih.mkri.id/detail/427,Ditolak,False,False,True,False,0
+PUT-0428/2023,Perkara Nomor 428,2021,Tidak Diterima,https://jdih.mkri.id/detail/428,Tidak Diterima,False,False,False,True,0
+PUT-0429/2023,Perkara Nomor 429,2018,Dikabulkan,https://jdih.mkri.id/detail/429,Dikabulkan,False,False,True,False,1
+PUT-0430/2023,Perkara Nomor 430,2021,Tidak Diterima,https://jdih.mkri.id/detail/430,Tidak Diterima,False,False,True,False,0
+PUT-0431/2023,Perkara Nomor 431,2020,Tidak Diterima,https://jdih.mkri.id/detail/431,Tidak Diterima,False,False,False,True,0
+PUT-0432/2023,Perkara Nomor 432,2020,Tidak Diterima,https://jdih.mkri.id/detail/432,Tidak Diterima,False,True,False,False,0
+PUT-0433/2023,Perkara Nomor 433,2020,Dikabulkan,https://jdih.mkri.id/detail/433,Dikabulkan,False,False,True,False,1
+PUT-0434/2023,Perkara Nomor 434,2022,Dikabulkan,https://jdih.mkri.id/detail/434,Dikabulkan,False,False,True,False,1
+PUT-0435/2023,Perkara Nomor 435,2020,Dikabulkan,https://jdih.mkri.id/detail/435,Dikabulkan,False,True,False,False,1
+PUT-0436/2023,Perkara Nomor 436,2021,Ditolak,https://jdih.mkri.id/detail/436,Ditolak,False,False,True,False,0
+PUT-0437/2023,Perkara Nomor 437,2021,Ditolak,https://jdih.mkri.id/detail/437,Ditolak,False,True,False,False,0
+PUT-0438/2023,Perkara Nomor 438,2021,Ditolak,https://jdih.mkri.id/detail/438,Ditolak,False,False,False,True,0
+PUT-0439/2023,Perkara Nomor 439,2022,Tidak Diterima,https://jdih.mkri.id/detail/439,Tidak Diterima,False,False,True,False,0
+PUT-0440/2023,Perkara Nomor 440,2019,Dikabulkan,https://jdih.mkri.id/detail/440,Dikabulkan,False,True,False,False,1
+PUT-0441/2023,Perkara Nomor 441,2022,Dikabulkan,https://jdih.mkri.id/detail/441,Dikabulkan,False,False,True,False,1
+PUT-0442/2023,Perkara Nomor 442,2020,Tidak Diterima,https://jdih.mkri.id/detail/442,Tidak Diterima,False,False,True,False,0
+PUT-0443/2023,Perkara Nomor 443,2018,Dikabulkan,https://jdih.mkri.id/detail/443,Dikabulkan,False,True,False,False,1
+PUT-0444/2023,Perkara Nomor 444,2019,Ditolak,https://jdih.mkri.id/detail/444,Ditolak,False,False,False,True,0
+PUT-0445/2023,Perkara Nomor 445,2018,Dikabulkan,https://jdih.mkri.id/detail/445,Dikabulkan,False,False,True,False,1
+PUT-0446/2023,Perkara Nomor 446,2021,Dikabulkan,https://jdih.mkri.id/detail/446,Dikabulkan,False,False,True,False,1
+PUT-0447/2023,Perkara Nomor 447,2021,Tidak Diterima,https://jdih.mkri.id/detail/447,Tidak Diterima,False,False,True,False,0
+PUT-0448/2023,Perkara Nomor 448,2022,Ditolak,https://jdih.mkri.id/detail/448,Ditolak,False,False,True,False,0
+PUT-0449/2023,Perkara Nomor 449,2018,Ditolak,https://jdih.mkri.id/detail/449,Ditolak,False,False,False,True,0
+PUT-0450/2023,Perkara Nomor 450,2021,Ditolak,https://jdih.mkri.id/detail/450,Ditolak,False,True,False,False,0
+PUT-0451/2023,Perkara Nomor 451,2022,Tidak Diterima,https://jdih.mkri.id/detail/451,Tidak Diterima,False,True,False,False,0
+PUT-0452/2023,Perkara Nomor 452,2021,Dikabulkan,https://jdih.mkri.id/detail/452,Dikabulkan,False,False,True,False,1
+PUT-0453/2023,Perkara Nomor 453,2021,Tidak Diterima,https://jdih.mkri.id/detail/453,Tidak Diterima,False,False,True,False,0
+PUT-0454/2023,Perkara Nomor 454,2018,Tidak Diterima,https://jdih.mkri.id/detail/454,Tidak Diterima,True,False,False,False,0
+PUT-0455/2023,Perkara Nomor 455,2022,Tidak Diterima,https://jdih.mkri.id/detail/455,Tidak Diterima,False,False,True,False,0
+PUT-0456/2023,Perkara Nomor 456,2021,Ditolak,https://jdih.mkri.id/detail/456,Ditolak,True,False,False,False,0
+PUT-0457/2023,Perkara Nomor 457,2019,Tidak Diterima,https://jdih.mkri.id/detail/457,Tidak Diterima,False,True,False,False,0
+PUT-0458/2023,Perkara Nomor 458,2022,Tidak Diterima,https://jdih.mkri.id/detail/458,Tidak Diterima,False,False,True,False,0
+PUT-0459/2023,Perkara Nomor 459,2023,Ditolak,https://jdih.mkri.id/detail/459,Ditolak,False,True,False,False,0
+PUT-0460/2023,Perkara Nomor 460,2018,Tidak Diterima,https://jdih.mkri.id/detail/460,Tidak Diterima,True,False,False,False,0
+PUT-0461/2023,Perkara Nomor 461,2020,Dikabulkan,https://jdih.mkri.id/detail/461,Dikabulkan,False,False,True,False,1
+PUT-0462/2023,Perkara Nomor 462,2020,Tidak Diterima,https://jdih.mkri.id/detail/462,Tidak Diterima,False,True,False,False,0
+PUT-0463/2023,Perkara Nomor 463,2021,Tidak Diterima,https://jdih.mkri.id/detail/463,Tidak Diterima,False,True,False,False,0
+PUT-0464/2023,Perkara Nomor 464,2020,Ditolak,https://jdih.mkri.id/detail/464,Ditolak,False,False,True,False,0
+PUT-0465/2023,Perkara Nomor 465,2022,Dikabulkan,https://jdih.mkri.id/detail/465,Dikabulkan,False,False,True,False,1
+PUT-0466/2023,Perkara Nomor 466,2023,Dikabulkan,https://jdih.mkri.id/detail/466,Dikabulkan,False,False,True,False,1
+PUT-0467/2023,Perkara Nomor 467,2019,Dikabulkan,https://jdih.mkri.id/detail/467,Dikabulkan,False,True,False,False,1
+PUT-0468/2023,Perkara Nomor 468,2020,Tidak Diterima,https://jdih.mkri.id/detail/468,Tidak Diterima,True,False,False,False,0
+PUT-0469/2023,Perkara Nomor 469,2020,Dikabulkan,https://jdih.mkri.id/detail/469,Dikabulkan,False,False,True,False,1
+PUT-0470/2023,Perkara Nomor 470,2021,Ditolak,https://jdih.mkri.id/detail/470,Ditolak,False,True,False,False,0
+PUT-0471/2023,Perkara Nomor 471,2021,Tidak Diterima,https://jdih.mkri.id/detail/471,Tidak Diterima,False,False,True,False,0
+PUT-0472/2023,Perkara Nomor 472,2021,Tidak Diterima,https://jdih.mkri.id/detail/472,Tidak Diterima,False,False,True,False,0
+PUT-0473/2023,Perkara Nomor 473,2021,Tidak Diterima,https://jdih.mkri.id/detail/473,Tidak Diterima,False,False,False,True,0
+PUT-0474/2023,Perkara Nomor 474,2021,Ditolak,https://jdih.mkri.id/detail/474,Ditolak,False,True,False,False,0
+PUT-0475/2023,Perkara Nomor 475,2022,Dikabulkan,https://jdih.mkri.id/detail/475,Dikabulkan,False,True,False,False,1
+PUT-0476/2023,Perkara Nomor 476,2019,Ditolak,https://jdih.mkri.id/detail/476,Ditolak,False,True,False,False,0
+PUT-0477/2023,Perkara Nomor 477,2019,Dikabulkan,https://jdih.mkri.id/detail/477,Dikabulkan,False,True,False,False,1
+PUT-0478/2023,Perkara Nomor 478,2021,Dikabulkan,https://jdih.mkri.id/detail/478,Dikabulkan,False,False,False,True,1
+PUT-0479/2023,Perkara Nomor 479,2021,Ditolak,https://jdih.mkri.id/detail/479,Ditolak,False,False,True,False,0
+PUT-0480/2023,Perkara Nomor 480,2019,Ditolak,https://jdih.mkri.id/detail/480,Ditolak,False,False,True,False,0
+PUT-0481/2023,Perkara Nomor 481,2022,Tidak Diterima,https://jdih.mkri.id/detail/481,Tidak Diterima,False,False,False,True,0
+PUT-0482/2023,Perkara Nomor 482,2018,Tidak Diterima,https://jdih.mkri.id/detail/482,Tidak Diterima,False,True,False,False,0
+PUT-0483/2023,Perkara Nomor 483,2020,Dikabulkan,https://jdih.mkri.id/detail/483,Dikabulkan,False,True,False,False,1
+PUT-0484/2023,Perkara Nomor 484,2022,Ditolak,https://jdih.mkri.id/detail/484,Ditolak,False,False,False,True,0
+PUT-0485/2023,Perkara Nomor 485,2021,Ditolak,https://jdih.mkri.id/detail/485,Ditolak,False,True,False,False,0
+PUT-0486/2023,Perkara Nomor 486,2021,Ditolak,https://jdih.mkri.id/detail/486,Ditolak,False,True,False,False,0
+PUT-0487/2023,Perkara Nomor 487,2018,Tidak Diterima,https://jdih.mkri.id/detail/487,Tidak Diterima,False,False,True,False,0
+PUT-0488/2023,Perkara Nomor 488,2021,Ditolak,https://jdih.mkri.id/detail/488,Ditolak,True,False,False,False,0
+PUT-0489/2023,Perkara Nomor 489,2018,Tidak Diterima,https://jdih.mkri.id/detail/489,Tidak Diterima,False,False,True,False,0
+PUT-0490/2023,Perkara Nomor 490,2022,Ditolak,https://jdih.mkri.id/detail/490,Ditolak,False,False,True,False,0
+PUT-0491/2023,Perkara Nomor 491,2021,Dikabulkan,https://jdih.mkri.id/detail/491,Dikabulkan,False,False,True,False,1
+PUT-0492/2023,Perkara Nomor 492,2019,Ditolak,https://jdih.mkri.id/detail/492,Ditolak,False,False,True,False,0
+PUT-0493/2023,Perkara Nomor 493,2020,Ditolak,https://jdih.mkri.id/detail/493,Ditolak,False,False,True,False,0
+PUT-0494/2023,Perkara Nomor 494,2023,Dikabulkan,https://jdih.mkri.id/detail/494,Dikabulkan,False,True,False,False,1
+PUT-0495/2023,Perkara Nomor 495,2020,Ditolak,https://jdih.mkri.id/detail/495,Ditolak,False,False,True,False,0
+PUT-0496/2023,Perkara Nomor 496,2022,Tidak Diterima,https://jdih.mkri.id/detail/496,Tidak Diterima,False,False,True,False,0
+PUT-0497/2023,Perkara Nomor 497,2021,Ditolak,https://jdih.mkri.id/detail/497,Ditolak,False,False,True,False,0
+PUT-0498/2023,Perkara Nomor 498,2020,Ditolak,https://jdih.mkri.id/detail/498,Ditolak,False,False,False,True,0
+PUT-0499/2023,Perkara Nomor 499,2018,Ditolak,https://jdih.mkri.id/detail/499,Ditolak,False,False,True,False,0
+PUT-0500/2023,Perkara Nomor 500,2023,Ditolak,https://jdih.mkri.id/detail/500,Ditolak,False,False,True,False,0
+PUT-0501/2023,Perkara Nomor 501,2022,Ditolak,https://jdih.mkri.id/detail/501,Ditolak,False,False,True,False,0
+PUT-0502/2023,Perkara Nomor 502,2020,Dikabulkan,https://jdih.mkri.id/detail/502,Dikabulkan,False,False,True,False,1
+PUT-0503/2023,Perkara Nomor 503,2023,Tidak Diterima,https://jdih.mkri.id/detail/503,Tidak Diterima,False,True,False,False,0
+PUT-0504/2023,Perkara Nomor 504,2019,Ditolak,https://jdih.mkri.id/detail/504,Ditolak,False,True,False,False,0
+PUT-0505/2023,Perkara Nomor 505,2023,Ditolak,https://jdih.mkri.id/detail/505,Ditolak,False,False,True,False,0
+PUT-0506/2023,Perkara Nomor 506,2023,Ditolak,https://jdih.mkri.id/detail/506,Ditolak,False,False,True,False,0
+PUT-0507/2023,Perkara Nomor 507,2019,Dikabulkan,https://jdih.mkri.id/detail/507,Dikabulkan,False,False,True,False,1
+PUT-0508/2023,Perkara Nomor 508,2022,Tidak Diterima,https://jdih.mkri.id/detail/508,Tidak Diterima,False,True,False,False,0
+PUT-0509/2023,Perkara Nomor 509,2023,Dikabulkan,https://jdih.mkri.id/detail/509,Dikabulkan,False,False,True,False,1
+PUT-0510/2023,Perkara Nomor 510,2018,Ditolak,https://jdih.mkri.id/detail/510,Ditolak,False,False,True,False,0
+PUT-0511/2023,Perkara Nomor 511,2020,Dikabulkan,https://jdih.mkri.id/detail/511,Dikabulkan,True,False,False,False,1
+PUT-0512/2023,Perkara Nomor 512,2023,Ditolak,https://jdih.mkri.id/detail/512,Ditolak,False,True,False,False,0
+PUT-0513/2023,Perkara Nomor 513,2022,Ditolak,https://jdih.mkri.id/detail/513,Ditolak,False,False,True,False,0
+PUT-0514/2023,Perkara Nomor 514,2020,Dikabulkan,https://jdih.mkri.id/detail/514,Dikabulkan,False,False,True,False,1
+PUT-0515/2023,Perkara Nomor 515,2021,Ditolak,https://jdih.mkri.id/detail/515,Ditolak,False,True,False,False,0
+PUT-0516/2023,Perkara Nomor 516,2020,Dikabulkan,https://jdih.mkri.id/detail/516,Dikabulkan,False,False,False,True,1
+PUT-0517/2023,Perkara Nomor 517,2021,Ditolak,https://jdih.mkri.id/detail/517,Ditolak,False,False,True,False,0
+PUT-0518/2023,Perkara Nomor 518,2023,Tidak Diterima,https://jdih.mkri.id/detail/518,Tidak Diterima,False,False,True,False,0
+PUT-0519/2023,Perkara Nomor 519,2019,Tidak Diterima,https://jdih.mkri.id/detail/519,Tidak Diterima,True,False,False,False,0
+PUT-0520/2023,Perkara Nomor 520,2021,Ditolak,https://jdih.mkri.id/detail/520,Ditolak,False,True,False,False,0
+PUT-0521/2023,Perkara Nomor 521,2021,Ditolak,https://jdih.mkri.id/detail/521,Ditolak,False,False,True,False,0
+PUT-0522/2023,Perkara Nomor 522,2021,Ditolak,https://jdih.mkri.id/detail/522,Ditolak,False,True,False,False,0
+PUT-0523/2023,Perkara Nomor 523,2018,Ditolak,https://jdih.mkri.id/detail/523,Ditolak,False,False,False,True,0
+PUT-0524/2023,Perkara Nomor 524,2020,Tidak Diterima,https://jdih.mkri.id/detail/524,Tidak Diterima,True,False,False,False,0
+PUT-0525/2023,Perkara Nomor 525,2023,Ditolak,https://jdih.mkri.id/detail/525,Ditolak,False,True,False,False,0
+PUT-0526/2023,Perkara Nomor 526,2018,Dikabulkan,https://jdih.mkri.id/detail/526,Dikabulkan,False,False,True,False,1
+PUT-0527/2023,Perkara Nomor 527,2022,Dikabulkan,https://jdih.mkri.id/detail/527,Dikabulkan,False,False,True,False,1
+PUT-0528/2023,Perkara Nomor 528,2021,Tidak Diterima,https://jdih.mkri.id/detail/528,Tidak Diterima,False,False,True,False,0
+PUT-0529/2023,Perkara Nomor 529,2020,Dikabulkan,https://jdih.mkri.id/detail/529,Dikabulkan,False,False,True,False,1
+PUT-0530/2023,Perkara Nomor 530,2019,Ditolak,https://jdih.mkri.id/detail/530,Ditolak,False,False,False,True,0
+PUT-0531/2023,Perkara Nomor 531,2019,Ditolak,https://jdih.mkri.id/detail/531,Ditolak,False,False,True,False,0
+PUT-0532/2023,Perkara Nomor 532,2020,Tidak Diterima,https://jdih.mkri.id/detail/532,Tidak Diterima,False,False,True,False,0
+PUT-0533/2023,Perkara Nomor 533,2020,Ditolak,https://jdih.mkri.id/detail/533,Ditolak,False,True,False,False,0
+PUT-0534/2023,Perkara Nomor 534,2019,Dikabulkan,https://jdih.mkri.id/detail/534,Dikabulkan,False,True,False,False,1
+PUT-0535/2023,Perkara Nomor 535,2022,Dikabulkan,https://jdih.mkri.id/detail/535,Dikabulkan,False,False,False,True,1
+PUT-0536/2023,Perkara Nomor 536,2020,Dikabulkan,https://jdih.mkri.id/detail/536,Dikabulkan,False,False,True,False,1
+PUT-0537/2023,Perkara Nomor 537,2021,Ditolak,https://jdih.mkri.id/detail/537,Ditolak,False,True,False,False,0
+PUT-0538/2023,Perkara Nomor 538,2020,Dikabulkan,https://jdih.mkri.id/detail/538,Dikabulkan,False,False,True,False,1
+PUT-0539/2023,Perkara Nomor 539,2022,Ditolak,https://jdih.mkri.id/detail/539,Ditolak,False,True,False,False,0
+PUT-0540/2023,Perkara Nomor 540,2019,Tidak Diterima,https://jdih.mkri.id/detail/540,Tidak Diterima,False,False,True,False,0
+PUT-0541/2023,Perkara Nomor 541,2021,Ditolak,https://jdih.mkri.id/detail/541,Ditolak,False,True,False,False,0
+PUT-0542/2023,Perkara Nomor 542,2021,Ditolak,https://jdih.mkri.id/detail/542,Ditolak,False,True,False,False,0
+PUT-0543/2023,Perkara Nomor 543,2019,Dikabulkan,https://jdih.mkri.id/detail/543,Dikabulkan,False,False,True,False,1
+PUT-0544/2023,Perkara Nomor 544,2018,Tidak Diterima,https://jdih.mkri.id/detail/544,Tidak Diterima,False,False,True,False,0
+PUT-0545/2023,Perkara Nomor 545,2021,Ditolak,https://jdih.mkri.id/detail/545,Ditolak,False,False,True,False,0
+PUT-0546/2023,Perkara Nomor 546,2021,Tidak Diterima,https://jdih.mkri.id/detail/546,Tidak Diterima,False,False,True,False,0
+PUT-0547/2023,Perkara Nomor 547,2023,Ditolak,https://jdih.mkri.id/detail/547,Ditolak,False,True,False,False,0
+PUT-0548/2023,Perkara Nomor 548,2018,Dikabulkan,https://jdih.mkri.id/detail/548,Dikabulkan,False,True,False,False,1
+PUT-0549/2023,Perkara Nomor 549,2021,Dikabulkan,https://jdih.mkri.id/detail/549,Dikabulkan,False,True,False,False,1
+PUT-0550/2023,Perkara Nomor 550,2021,Tidak Diterima,https://jdih.mkri.id/detail/550,Tidak Diterima,False,False,True,False,0
+PUT-0551/2023,Perkara Nomor 551,2020,Tidak Diterima,https://jdih.mkri.id/detail/551,Tidak Diterima,False,False,True,False,0
+PUT-0552/2023,Perkara Nomor 552,2020,Ditolak,https://jdih.mkri.id/detail/552,Ditolak,False,True,False,False,0
+PUT-0553/2023,Perkara Nomor 553,2021,Ditolak,https://jdih.mkri.id/detail/553,Ditolak,False,True,False,False,0
+PUT-0554/2023,Perkara Nomor 554,2019,Dikabulkan,https://jdih.mkri.id/detail/554,Dikabulkan,False,False,True,False,1
+PUT-0555/2023,Perkara Nomor 555,2019,Tidak Diterima,https://jdih.mkri.id/detail/555,Tidak Diterima,False,False,True,False,0
+PUT-0556/2023,Perkara Nomor 556,2018,Dikabulkan,https://jdih.mkri.id/detail/556,Dikabulkan,False,False,False,True,1
+PUT-0557/2023,Perkara Nomor 557,2018,Dikabulkan,https://jdih.mkri.id/detail/557,Dikabulkan,True,False,False,False,1
+PUT-0558/2023,Perkara Nomor 558,2023,Ditolak,https://jdih.mkri.id/detail/558,Ditolak,False,True,False,False,0
+PUT-0559/2023,Perkara Nomor 559,2020,Tidak Diterima,https://jdih.mkri.id/detail/559,Tidak Diterima,False,False,True,False,0
+PUT-0560/2023,Perkara Nomor 560,2021,Tidak Diterima,https://jdih.mkri.id/detail/560,Tidak Diterima,False,True,False,False,0
+PUT-0561/2023,Perkara Nomor 561,2022,Tidak Diterima,https://jdih.mkri.id/detail/561,Tidak Diterima,True,False,False,False,0
+PUT-0562/2023,Perkara Nomor 562,2022,Ditolak,https://jdih.mkri.id/detail/562,Ditolak,False,False,True,False,0
+PUT-0563/2023,Perkara Nomor 563,2020,Tidak Diterima,https://jdih.mkri.id/detail/563,Tidak Diterima,False,True,False,False,0
+PUT-0564/2023,Perkara Nomor 564,2021,Ditolak,https://jdih.mkri.id/detail/564,Ditolak,False,False,True,False,0
+PUT-0565/2023,Perkara Nomor 565,2022,Tidak Diterima,https://jdih.mkri.id/detail/565,Tidak Diterima,False,False,True,False,0
+PUT-0566/2023,Perkara Nomor 566,2023,Dikabulkan,https://jdih.mkri.id/detail/566,Dikabulkan,False,False,True,False,1
+PUT-0567/2023,Perkara Nomor 567,2021,Ditolak,https://jdih.mkri.id/detail/567,Ditolak,False,True,False,False,0
+PUT-0568/2023,Perkara Nomor 568,2021,Tidak Diterima,https://jdih.mkri.id/detail/568,Tidak Diterima,False,False,True,False,0
+PUT-0569/2023,Perkara Nomor 569,2019,Dikabulkan,https://jdih.mkri.id/detail/569,Dikabulkan,False,True,False,False,1
+PUT-0570/2023,Perkara Nomor 570,2018,Ditolak,https://jdih.mkri.id/detail/570,Ditolak,False,False,True,False,0
+PUT-0571/2023,Perkara Nomor 571,2018,Dikabulkan,https://jdih.mkri.id/detail/571,Dikabulkan,False,True,False,False,1
+PUT-0572/2023,Perkara Nomor 572,2020,Tidak Diterima,https://jdih.mkri.id/detail/572,Tidak Diterima,False,False,True,False,0
+PUT-0573/2023,Perkara Nomor 573,2021,Dikabulkan,https://jdih.mkri.id/detail/573,Dikabulkan,False,False,True,False,1
+PUT-0574/2023,Perkara Nomor 574,2021,Ditolak,https://jdih.mkri.id/detail/574,Ditolak,False,True,False,False,0
+PUT-0575/2023,Perkara Nomor 575,2019,Dikabulkan,https://jdih.mkri.id/detail/575,Dikabulkan,False,False,True,False,1
+PUT-0576/2023,Perkara Nomor 576,2019,Tidak Diterima,https://jdih.mkri.id/detail/576,Tidak Diterima,False,True,False,False,0
+PUT-0577/2023,Perkara Nomor 577,2020,Dikabulkan,https://jdih.mkri.id/detail/577,Dikabulkan,False,False,True,False,1
+PUT-0578/2023,Perkara Nomor 578,2020,Dikabulkan,https://jdih.mkri.id/detail/578,Dikabulkan,False,False,False,True,1
+PUT-0579/2023,Perkara Nomor 579,2023,Ditolak,https://jdih.mkri.id/detail/579,Ditolak,False,False,True,False,0
+PUT-0580/2023,Perkara Nomor 580,2021,Tidak Diterima,https://jdih.mkri.id/detail/580,Tidak Diterima,False,False,True,False,0
+PUT-0581/2023,Perkara Nomor 581,2020,Tidak Diterima,https://jdih.mkri.id/detail/581,Tidak Diterima,False,False,True,False,0
+PUT-0582/2023,Perkara Nomor 582,2018,Tidak Diterima,https://jdih.mkri.id/detail/582,Tidak Diterima,False,False,True,False,0
+PUT-0583/2023,Perkara Nomor 583,2020,Dikabulkan,https://jdih.mkri.id/detail/583,Dikabulkan,False,True,False,False,1
+PUT-0584/2023,Perkara Nomor 584,2022,Tidak Diterima,https://jdih.mkri.id/detail/584,Tidak Diterima,False,True,False,False,0
+PUT-0585/2023,Perkara Nomor 585,2018,Dikabulkan,https://jdih.mkri.id/detail/585,Dikabulkan,False,False,True,False,1
+PUT-0586/2023,Perkara Nomor 586,2019,Dikabulkan,https://jdih.mkri.id/detail/586,Dikabulkan,False,False,True,False,1
+PUT-0587/2023,Perkara Nomor 587,2022,Ditolak,https://jdih.mkri.id/detail/587,Ditolak,False,True,False,False,0
+PUT-0588/2023,Perkara Nomor 588,2019,Dikabulkan,https://jdih.mkri.id/detail/588,Dikabulkan,True,False,False,False,1
+PUT-0589/2023,Perkara Nomor 589,2018,Dikabulkan,https://jdih.mkri.id/detail/589,Dikabulkan,False,True,False,False,1
+PUT-0590/2023,Perkara Nomor 590,2021,Tidak Diterima,https://jdih.mkri.id/detail/590,Tidak Diterima,False,False,True,False,0
+PUT-0591/2023,Perkara Nomor 591,2022,Ditolak,https://jdih.mkri.id/detail/591,Ditolak,False,False,False,True,0
+PUT-0592/2023,Perkara Nomor 592,2019,Tidak Diterima,https://jdih.mkri.id/detail/592,Tidak Diterima,False,False,True,False,0
+PUT-0593/2023,Perkara Nomor 593,2021,Tidak Diterima,https://jdih.mkri.id/detail/593,Tidak Diterima,False,True,False,False,0
+PUT-0594/2023,Perkara Nomor 594,2018,Tidak Diterima,https://jdih.mkri.id/detail/594,Tidak Diterima,False,False,True,False,0
+PUT-0595/2023,Perkara Nomor 595,2023,Tidak Diterima,https://jdih.mkri.id/detail/595,Tidak Diterima,False,True,False,False,0
+PUT-0596/2023,Perkara Nomor 596,2020,Ditolak,https://jdih.mkri.id/detail/596,Ditolak,False,True,False,False,0
+PUT-0597/2023,Perkara Nomor 597,2021,Dikabulkan,https://jdih.mkri.id/detail/597,Dikabulkan,False,True,False,False,1
+PUT-0598/2023,Perkara Nomor 598,2018,Tidak Diterima,https://jdih.mkri.id/detail/598,Tidak Diterima,False,False,True,False,0
+PUT-0599/2023,Perkara Nomor 599,2022,Dikabulkan,https://jdih.mkri.id/detail/599,Dikabulkan,False,False,True,False,1
+PUT-0600/2023,Perkara Nomor 600,2020,Tidak Diterima,https://jdih.mkri.id/detail/600,Tidak Diterima,True,False,False,False,0
+PUT-0601/2023,Perkara Nomor 601,2022,Ditolak,https://jdih.mkri.id/detail/601,Ditolak,False,False,True,False,0
+PUT-0602/2023,Perkara Nomor 602,2020,Tidak Diterima,https://jdih.mkri.id/detail/602,Tidak Diterima,False,True,False,False,0
+PUT-0603/2023,Perkara Nomor 603,2020,Dikabulkan,https://jdih.mkri.id/detail/603,Dikabulkan,False,False,True,False,1
+PUT-0604/2023,Perkara Nomor 604,2020,Dikabulkan,https://jdih.mkri.id/detail/604,Dikabulkan,False,False,True,False,1
+PUT-0605/2023,Perkara Nomor 605,2020,Ditolak,https://jdih.mkri.id/detail/605,Ditolak,False,False,False,True,0
+PUT-0606/2023,Perkara Nomor 606,2022,Ditolak,https://jdih.mkri.id/detail/606,Ditolak,False,False,True,False,0
+PUT-0607/2023,Perkara Nomor 607,2022,Dikabulkan,https://jdih.mkri.id/detail/607,Dikabulkan,False,False,True,False,1
+PUT-0608/2023,Perkara Nomor 608,2021,Dikabulkan,https://jdih.mkri.id/detail/608,Dikabulkan,False,False,True,False,1
+PUT-0609/2023,Perkara Nomor 609,2021,Ditolak,https://jdih.mkri.id/detail/609,Ditolak,False,False,True,False,0
+PUT-0610/2023,Perkara Nomor 610,2022,Tidak Diterima,https://jdih.mkri.id/detail/610,Tidak Diterima,False,True,False,False,0
+PUT-0611/2023,Perkara Nomor 611,2018,Tidak Diterima,https://jdih.mkri.id/detail/611,Tidak Diterima,False,False,True,False,0
+PUT-0612/2023,Perkara Nomor 612,2021,Tidak Diterima,https://jdih.mkri.id/detail/612,Tidak Diterima,False,False,True,False,0
+PUT-0613/2023,Perkara Nomor 613,2021,Ditolak,https://jdih.mkri.id/detail/613,Ditolak,False,False,True,False,0
+PUT-0614/2023,Perkara Nomor 614,2022,Ditolak,https://jdih.mkri.id/detail/614,Ditolak,False,False,True,False,0
+PUT-0615/2023,Perkara Nomor 615,2018,Ditolak,https://jdih.mkri.id/detail/615,Ditolak,False,False,True,False,0
+PUT-0616/2023,Perkara Nomor 616,2020,Ditolak,https://jdih.mkri.id/detail/616,Ditolak,False,True,False,False,0
+PUT-0617/2023,Perkara Nomor 617,2021,Ditolak,https://jdih.mkri.id/detail/617,Ditolak,False,False,True,False,0
+PUT-0618/2023,Perkara Nomor 618,2022,Tidak Diterima,https://jdih.mkri.id/detail/618,Tidak Diterima,False,False,True,False,0
+PUT-0619/2023,Perkara Nomor 619,2022,Ditolak,https://jdih.mkri.id/detail/619,Ditolak,False,False,True,False,0
+PUT-0620/2023,Perkara Nomor 620,2020,Tidak Diterima,https://jdih.mkri.id/detail/620,Tidak Diterima,False,True,False,False,0
+PUT-0621/2023,Perkara Nomor 621,2021,Ditolak,https://jdih.mkri.id/detail/621,Ditolak,False,True,False,False,0
+PUT-0622/2023,Perkara Nomor 622,2022,Ditolak,https://jdih.mkri.id/detail/622,Ditolak,False,True,False,False,0
+PUT-0623/2023,Perkara Nomor 623,2019,Dikabulkan,https://jdih.mkri.id/detail/623,Dikabulkan,False,False,True,False,1
+PUT-0624/2023,Perkara Nomor 624,2018,Tidak Diterima,https://jdih.mkri.id/detail/624,Tidak Diterima,False,True,False,False,0
+PUT-0625/2023,Perkara Nomor 625,2020,Ditolak,https://jdih.mkri.id/detail/625,Ditolak,False,False,True,False,0
+PUT-0626/2023,Perkara Nomor 626,2019,Dikabulkan,https://jdih.mkri.id/detail/626,Dikabulkan,False,False,True,False,1
+PUT-0627/2023,Perkara Nomor 627,2022,Dikabulkan,https://jdih.mkri.id/detail/627,Dikabulkan,False,False,True,False,1
+PUT-0628/2023,Perkara Nomor 628,2023,Ditolak,https://jdih.mkri.id/detail/628,Ditolak,False,False,True,False,0
+PUT-0629/2023,Perkara Nomor 629,2023,Tidak Diterima,https://jdih.mkri.id/detail/629,Tidak Diterima,False,True,False,False,0
+PUT-0630/2023,Perkara Nomor 630,2022,Ditolak,https://jdih.mkri.id/detail/630,Ditolak,False,True,False,False,0
+PUT-0631/2023,Perkara Nomor 631,2022,Ditolak,https://jdih.mkri.id/detail/631,Ditolak,False,True,False,False,0
+PUT-0632/2023,Perkara Nomor 632,2022,Dikabulkan,https://jdih.mkri.id/detail/632,Dikabulkan,False,True,False,False,1
+PUT-0633/2023,Perkara Nomor 633,2022,Ditolak,https://jdih.mkri.id/detail/633,Ditolak,False,False,False,True,0
+PUT-0634/2023,Perkara Nomor 634,2019,Dikabulkan,https://jdih.mkri.id/detail/634,Dikabulkan,False,False,True,False,1
+PUT-0635/2023,Perkara Nomor 635,2023,Ditolak,https://jdih.mkri.id/detail/635,Ditolak,False,False,True,False,0
+PUT-0636/2023,Perkara Nomor 636,2019,Dikabulkan,https://jdih.mkri.id/detail/636,Dikabulkan,False,False,True,False,1
+PUT-0637/2023,Perkara Nomor 637,2019,Ditolak,https://jdih.mkri.id/detail/637,Ditolak,False,False,False,True,0
+PUT-0638/2023,Perkara Nomor 638,2021,Tidak Diterima,https://jdih.mkri.id/detail/638,Tidak Diterima,False,False,True,False,0
+PUT-0639/2023,Perkara Nomor 639,2023,Dikabulkan,https://jdih.mkri.id/detail/639,Dikabulkan,False,False,True,False,1
+PUT-0640/2023,Perkara Nomor 640,2021,Ditolak,https://jdih.mkri.id/detail/640,Ditolak,False,True,False,False,0
+PUT-0641/2023,Perkara Nomor 641,2021,Ditolak,https://jdih.mkri.id/detail/641,Ditolak,False,True,False,False,0
+PUT-0642/2023,Perkara Nomor 642,2019,Tidak Diterima,https://jdih.mkri.id/detail/642,Tidak Diterima,False,True,False,False,0
+PUT-0643/2023,Perkara Nomor 643,2018,Ditolak,https://jdih.mkri.id/detail/643,Ditolak,False,False,True,False,0
+PUT-0644/2023,Perkara Nomor 644,2019,Tidak Diterima,https://jdih.mkri.id/detail/644,Tidak Diterima,False,False,True,False,0
+PUT-0645/2023,Perkara Nomor 645,2022,Dikabulkan,https://jdih.mkri.id/detail/645,Dikabulkan,False,False,True,False,1
+PUT-0646/2023,Perkara Nomor 646,2023,Dikabulkan,https://jdih.mkri.id/detail/646,Dikabulkan,False,False,True,False,1
+PUT-0647/2023,Perkara Nomor 647,2022,Tidak Diterima,https://jdih.mkri.id/detail/647,Tidak Diterima,False,True,False,False,0
+PUT-0648/2023,Perkara Nomor 648,2020,Tidak Diterima,https://jdih.mkri.id/detail/648,Tidak Diterima,False,True,False,False,0
+PUT-0649/2023,Perkara Nomor 649,2021,Ditolak,https://jdih.mkri.id/detail/649,Ditolak,True,False,False,False,0
+PUT-0650/2023,Perkara Nomor 650,2020,Tidak Diterima,https://jdih.mkri.id/detail/650,Tidak Diterima,False,True,False,False,0
+PUT-0651/2023,Perkara Nomor 651,2021,Ditolak,https://jdih.mkri.id/detail/651,Ditolak,False,True,False,False,0
+PUT-0652/2023,Perkara Nomor 652,2021,Dikabulkan,https://jdih.mkri.id/detail/652,Dikabulkan,False,True,False,False,1
+PUT-0653/2023,Perkara Nomor 653,2019,Ditolak,https://jdih.mkri.id/detail/653,Ditolak,False,True,False,False,0
+PUT-0654/2023,Perkara Nomor 654,2020,Ditolak,https://jdih.mkri.id/detail/654,Ditolak,False,False,True,False,0
+PUT-0655/2023,Perkara Nomor 655,2021,Dikabulkan,https://jdih.mkri.id/detail/655,Dikabulkan,False,True,False,False,1
+PUT-0656/2023,Perkara Nomor 656,2022,Ditolak,https://jdih.mkri.id/detail/656,Ditolak,False,False,True,False,0
+PUT-0657/2023,Perkara Nomor 657,2022,Tidak Diterima,https://jdih.mkri.id/detail/657,Tidak Diterima,False,False,True,False,0
+PUT-0658/2023,Perkara Nomor 658,2021,Ditolak,https://jdih.mkri.id/detail/658,Ditolak,False,False,True,False,0
+PUT-0659/2023,Perkara Nomor 659,2022,Tidak Diterima,https://jdih.mkri.id/detail/659,Tidak Diterima,False,True,False,False,0
+PUT-0660/2023,Perkara Nomor 660,2023,Dikabulkan,https://jdih.mkri.id/detail/660,Dikabulkan,False,False,True,False,1
+PUT-0661/2023,Perkara Nomor 661,2019,Dikabulkan,https://jdih.mkri.id/detail/661,Dikabulkan,False,True,False,False,1
+PUT-0662/2023,Perkara Nomor 662,2023,Tidak Diterima,https://jdih.mkri.id/detail/662,Tidak Diterima,False,True,False,False,0
+PUT-0663/2023,Perkara Nomor 663,2020,Dikabulkan,https://jdih.mkri.id/detail/663,Dikabulkan,False,False,True,False,1
+PUT-0664/2023,Perkara Nomor 664,2019,Ditolak,https://jdih.mkri.id/detail/664,Ditolak,False,True,False,False,0
+PUT-0665/2023,Perkara Nomor 665,2022,Ditolak,https://jdih.mkri.id/detail/665,Ditolak,False,False,False,True,0
+PUT-0666/2023,Perkara Nomor 666,2020,Dikabulkan,https://jdih.mkri.id/detail/666,Dikabulkan,False,False,True,False,1
+PUT-0667/2023,Perkara Nomor 667,2018,Ditolak,https://jdih.mkri.id/detail/667,Ditolak,False,True,False,False,0
+PUT-0668/2023,Perkara Nomor 668,2021,Ditolak,https://jdih.mkri.id/detail/668,Ditolak,False,False,False,True,0
+PUT-0669/2023,Perkara Nomor 669,2022,Ditolak,https://jdih.mkri.id/detail/669,Ditolak,False,False,True,False,0
+PUT-0670/2023,Perkara Nomor 670,2021,Tidak Diterima,https://jdih.mkri.id/detail/670,Tidak Diterima,False,False,True,False,0
+PUT-0671/2023,Perkara Nomor 671,2020,Tidak Diterima,https://jdih.mkri.id/detail/671,Tidak Diterima,False,True,False,False,0
+PUT-0672/2023,Perkara Nomor 672,2021,Tidak Diterima,https://jdih.mkri.id/detail/672,Tidak Diterima,False,True,False,False,0
+PUT-0673/2023,Perkara Nomor 673,2018,Dikabulkan,https://jdih.mkri.id/detail/673,Dikabulkan,True,False,False,False,1
+PUT-0674/2023,Perkara Nomor 674,2019,Tidak Diterima,https://jdih.mkri.id/detail/674,Tidak Diterima,False,False,True,False,0
+PUT-0675/2023,Perkara Nomor 675,2021,Ditolak,https://jdih.mkri.id/detail/675,Ditolak,False,False,True,False,0
+PUT-0676/2023,Perkara Nomor 676,2020,Dikabulkan,https://jdih.mkri.id/detail/676,Dikabulkan,False,False,True,False,1
+PUT-0677/2023,Perkara Nomor 677,2022,Ditolak,https://jdih.mkri.id/detail/677,Ditolak,False,True,False,False,0
+PUT-0678/2023,Perkara Nomor 678,2023,Tidak Diterima,https://jdih.mkri.id/detail/678,Tidak Diterima,False,False,True,False,0
+PUT-0679/2023,Perkara Nomor 679,2020,Tidak Diterima,https://jdih.mkri.id/detail/679,Tidak Diterima,False,True,False,False,0
+PUT-0680/2023,Perkara Nomor 680,2023,Ditolak,https://jdih.mkri.id/detail/680,Ditolak,False,True,False,False,0
+PUT-0681/2023,Perkara Nomor 681,2021,Dikabulkan,https://jdih.mkri.id/detail/681,Dikabulkan,False,True,False,False,1
+PUT-0682/2023,Perkara Nomor 682,2021,Ditolak,https://jdih.mkri.id/detail/682,Ditolak,False,True,False,False,0
+PUT-0683/2023,Perkara Nomor 683,2021,Dikabulkan,https://jdih.mkri.id/detail/683,Dikabulkan,False,False,True,False,1
+PUT-0684/2023,Perkara Nomor 684,2020,Tidak Diterima,https://jdih.mkri.id/detail/684,Tidak Diterima,False,False,False,True,0
+PUT-0685/2023,Perkara Nomor 685,2018,Dikabulkan,https://jdih.mkri.id/detail/685,Dikabulkan,False,False,False,True,1
+PUT-0686/2023,Perkara Nomor 686,2019,Dikabulkan,https://jdih.mkri.id/detail/686,Dikabulkan,False,False,True,False,1
+PUT-0687/2023,Perkara Nomor 687,2021,Ditolak,https://jdih.mkri.id/detail/687,Ditolak,False,False,False,True,0
+PUT-0688/2023,Perkara Nomor 688,2021,Dikabulkan,https://jdih.mkri.id/detail/688,Dikabulkan,False,False,True,False,1
+PUT-0689/2023,Perkara Nomor 689,2019,Ditolak,https://jdih.mkri.id/detail/689,Ditolak,False,True,False,False,0
+PUT-0690/2023,Perkara Nomor 690,2020,Ditolak,https://jdih.mkri.id/detail/690,Ditolak,True,False,False,False,0
+PUT-0691/2023,Perkara Nomor 691,2018,Tidak Diterima,https://jdih.mkri.id/detail/691,Tidak Diterima,False,True,False,False,0
+PUT-0692/2023,Perkara Nomor 692,2021,Tidak Diterima,https://jdih.mkri.id/detail/692,Tidak Diterima,False,False,True,False,0
+PUT-0693/2023,Perkara Nomor 693,2018,Ditolak,https://jdih.mkri.id/detail/693,Ditolak,False,True,False,False,0
+PUT-0694/2023,Perkara Nomor 694,2021,Ditolak,https://jdih.mkri.id/detail/694,Ditolak,False,False,True,False,0
+PUT-0695/2023,Perkara Nomor 695,2021,Dikabulkan,https://jdih.mkri.id/detail/695,Dikabulkan,False,False,True,False,1
+PUT-0696/2023,Perkara Nomor 696,2019,Ditolak,https://jdih.mkri.id/detail/696,Ditolak,False,True,False,False,0
+PUT-0697/2023,Perkara Nomor 697,2021,Dikabulkan,https://jdih.mkri.id/detail/697,Dikabulkan,True,False,False,False,1
+PUT-0698/2023,Perkara Nomor 698,2021,Tidak Diterima,https://jdih.mkri.id/detail/698,Tidak Diterima,False,False,True,False,0
+PUT-0699/2023,Perkara Nomor 699,2022,Tidak Diterima,https://jdih.mkri.id/detail/699,Tidak Diterima,False,False,True,False,0
+PUT-0700/2023,Perkara Nomor 700,2018,Dikabulkan,https://jdih.mkri.id/detail/700,Dikabulkan,False,False,True,False,1
+PUT-0701/2023,Perkara Nomor 701,2020,Ditolak,https://jdih.mkri.id/detail/701,Ditolak,False,False,True,False,0
+PUT-0702/2023,Perkara Nomor 702,2022,Dikabulkan,https://jdih.mkri.id/detail/702,Dikabulkan,False,False,True,False,1
+PUT-0703/2023,Perkara Nomor 703,2021,Ditolak,https://jdih.mkri.id/detail/703,Ditolak,False,False,True,False,0
+PUT-0704/2023,Perkara Nomor 704,2023,Dikabulkan,https://jdih.mkri.id/detail/704,Dikabulkan,True,False,False,False,1
+PUT-0705/2023,Perkara Nomor 705,2019,Ditolak,https://jdih.mkri.id/detail/705,Ditolak,False,False,True,False,0
+PUT-0706/2023,Perkara Nomor 706,2020,Ditolak,https://jdih.mkri.id/detail/706,Ditolak,False,False,False,True,0
+PUT-0707/2023,Perkara Nomor 707,2019,Ditolak,https://jdih.mkri.id/detail/707,Ditolak,False,True,False,False,0
+PUT-0708/2023,Perkara Nomor 708,2022,Ditolak,https://jdih.mkri.id/detail/708,Ditolak,False,False,True,False,0
+PUT-0709/2023,Perkara Nomor 709,2021,Ditolak,https://jdih.mkri.id/detail/709,Ditolak,False,False,False,True,0
+PUT-0710/2023,Perkara Nomor 710,2023,Dikabulkan,https://jdih.mkri.id/detail/710,Dikabulkan,False,False,False,True,1
+PUT-0711/2023,Perkara Nomor 711,2020,Tidak Diterima,https://jdih.mkri.id/detail/711,Tidak Diterima,False,False,True,False,0
+PUT-0712/2023,Perkara Nomor 712,2021,Ditolak,https://jdih.mkri.id/detail/712,Ditolak,False,False,False,True,0
+PUT-0713/2023,Perkara Nomor 713,2022,Dikabulkan,https://jdih.mkri.id/detail/713,Dikabulkan,False,True,False,False,1
+PUT-0714/2023,Perkara Nomor 714,2023,Ditolak,https://jdih.mkri.id/detail/714,Ditolak,False,False,True,False,0
+PUT-0715/2023,Perkara Nomor 715,2021,Ditolak,https://jdih.mkri.id/detail/715,Ditolak,False,False,True,False,0
+PUT-0716/2023,Perkara Nomor 716,2020,Dikabulkan,https://jdih.mkri.id/detail/716,Dikabulkan,False,False,False,True,1
+PUT-0717/2023,Perkara Nomor 717,2018,Tidak Diterima,https://jdih.mkri.id/detail/717,Tidak Diterima,True,False,False,False,0
+PUT-0718/2023,Perkara Nomor 718,2023,Dikabulkan,https://jdih.mkri.id/detail/718,Dikabulkan,True,False,False,False,1
+PUT-0719/2023,Perkara Nomor 719,2022,Ditolak,https://jdih.mkri.id/detail/719,Ditolak,True,False,False,False,0
+PUT-0720/2023,Perkara Nomor 720,2021,Ditolak,https://jdih.mkri.id/detail/720,Ditolak,False,False,True,False,0
+PUT-0721/2023,Perkara Nomor 721,2023,Ditolak,https://jdih.mkri.id/detail/721,Ditolak,False,False,True,False,0
+PUT-0722/2023,Perkara Nomor 722,2018,Ditolak,https://jdih.mkri.id/detail/722,Ditolak,False,False,True,False,0
+PUT-0723/2023,Perkara Nomor 723,2022,Dikabulkan,https://jdih.mkri.id/detail/723,Dikabulkan,False,False,True,False,1
+PUT-0724/2023,Perkara Nomor 724,2023,Tidak Diterima,https://jdih.mkri.id/detail/724,Tidak Diterima,False,True,False,False,0
+PUT-0725/2023,Perkara Nomor 725,2021,Tidak Diterima,https://jdih.mkri.id/detail/725,Tidak Diterima,False,False,True,False,0
+PUT-0726/2023,Perkara Nomor 726,2019,Ditolak,https://jdih.mkri.id/detail/726,Ditolak,False,False,True,False,0
+PUT-0727/2023,Perkara Nomor 727,2021,Ditolak,https://jdih.mkri.id/detail/727,Ditolak,False,False,True,False,0
+PUT-0728/2023,Perkara Nomor 728,2018,Ditolak,https://jdih.mkri.id/detail/728,Ditolak,False,False,True,False,0
+PUT-0729/2023,Perkara Nomor 729,2020,Ditolak,https://jdih.mkri.id/detail/729,Ditolak,True,False,False,False,0
+PUT-0730/2023,Perkara Nomor 730,2021,Ditolak,https://jdih.mkri.id/detail/730,Ditolak,False,False,True,False,0
+PUT-0731/2023,Perkara Nomor 731,2021,Ditolak,https://jdih.mkri.id/detail/731,Ditolak,False,False,False,True,0
+PUT-0732/2023,Perkara Nomor 732,2020,Tidak Diterima,https://jdih.mkri.id/detail/732,Tidak Diterima,False,False,True,False,0
+PUT-0733/2023,Perkara Nomor 733,2019,Ditolak,https://jdih.mkri.id/detail/733,Ditolak,False,True,False,False,0
+PUT-0734/2023,Perkara Nomor 734,2022,Ditolak,https://jdih.mkri.id/detail/734,Ditolak,False,True,False,False,0
+PUT-0735/2023,Perkara Nomor 735,2020,Ditolak,https://jdih.mkri.id/detail/735,Ditolak,False,False,False,True,0
+PUT-0736/2023,Perkara Nomor 736,2020,Dikabulkan,https://jdih.mkri.id/detail/736,Dikabulkan,False,True,False,False,1
+PUT-0737/2023,Perkara Nomor 737,2020,Tidak Diterima,https://jdih.mkri.id/detail/737,Tidak Diterima,False,False,False,True,0
+PUT-0738/2023,Perkara Nomor 738,2022,Dikabulkan,https://jdih.mkri.id/detail/738,Dikabulkan,False,True,False,False,1
+PUT-0739/2023,Perkara Nomor 739,2022,Ditolak,https://jdih.mkri.id/detail/739,Ditolak,False,True,False,False,0
+PUT-0740/2023,Perkara Nomor 740,2023,Ditolak,https://jdih.mkri.id/detail/740,Ditolak,False,True,False,False,0
+PUT-0741/2023,Perkara Nomor 741,2020,Dikabulkan,https://jdih.mkri.id/detail/741,Dikabulkan,False,False,True,False,1
+PUT-0742/2023,Perkara Nomor 742,2023,Tidak Diterima,https://jdih.mkri.id/detail/742,Tidak Diterima,False,True,False,False,0
+PUT-0743/2023,Perkara Nomor 743,2019,Ditolak,https://jdih.mkri.id/detail/743,Ditolak,True,False,False,False,0
+PUT-0744/2023,Perkara Nomor 744,2019,Ditolak,https://jdih.mkri.id/detail/744,Ditolak,True,False,False,False,0
+PUT-0745/2023,Perkara Nomor 745,2021,Tidak Diterima,https://jdih.mkri.id/detail/745,Tidak Diterima,False,True,False,False,0
+PUT-0746/2023,Perkara Nomor 746,2023,Ditolak,https://jdih.mkri.id/detail/746,Ditolak,False,True,False,False,0
+PUT-0747/2023,Perkara Nomor 747,2022,Tidak Diterima,https://jdih.mkri.id/detail/747,Tidak Diterima,False,False,False,True,0
+PUT-0748/2023,Perkara Nomor 748,2018,Ditolak,https://jdih.mkri.id/detail/748,Ditolak,False,True,False,False,0
+PUT-0749/2023,Perkara Nomor 749,2021,Tidak Diterima,https://jdih.mkri.id/detail/749,Tidak Diterima,False,False,True,False,0
+PUT-0750/2023,Perkara Nomor 750,2021,Ditolak,https://jdih.mkri.id/detail/750,Ditolak,False,False,False,True,0
+PUT-0751/2023,Perkara Nomor 751,2021,Tidak Diterima,https://jdih.mkri.id/detail/751,Tidak Diterima,False,False,False,True,0
+PUT-0752/2023,Perkara Nomor 752,2019,Dikabulkan,https://jdih.mkri.id/detail/752,Dikabulkan,False,False,True,False,1
+PUT-0753/2023,Perkara Nomor 753,2022,Dikabulkan,https://jdih.mkri.id/detail/753,Dikabulkan,False,True,False,False,1
+PUT-0754/2023,Perkara Nomor 754,2021,Ditolak,https://jdih.mkri.id/detail/754,Ditolak,False,False,True,False,0
+PUT-0755/2023,Perkara Nomor 755,2020,Ditolak,https://jdih.mkri.id/detail/755,Ditolak,False,True,False,False,0
+PUT-0756/2023,Perkara Nomor 756,2018,Ditolak,https://jdih.mkri.id/detail/756,Ditolak,True,False,False,False,0
+PUT-0757/2023,Perkara Nomor 757,2021,Tidak Diterima,https://jdih.mkri.id/detail/757,Tidak Diterima,True,False,False,False,0
+PUT-0758/2023,Perkara Nomor 758,2018,Dikabulkan,https://jdih.mkri.id/detail/758,Dikabulkan,False,False,True,False,1
+PUT-0759/2023,Perkara Nomor 759,2022,Ditolak,https://jdih.mkri.id/detail/759,Ditolak,False,False,True,False,0
+PUT-0760/2023,Perkara Nomor 760,2022,Ditolak,https://jdih.mkri.id/detail/760,Ditolak,False,False,False,True,0
+PUT-0761/2023,Perkara Nomor 761,2019,Tidak Diterima,https://jdih.mkri.id/detail/761,Tidak Diterima,False,False,True,False,0
+PUT-0762/2023,Perkara Nomor 762,2018,Ditolak,https://jdih.mkri.id/detail/762,Ditolak,False,True,False,False,0
+PUT-0763/2023,Perkara Nomor 763,2021,Dikabulkan,https://jdih.mkri.id/detail/763,Dikabulkan,False,True,False,False,1
+PUT-0764/2023,Perkara Nomor 764,2020,Tidak Diterima,https://jdih.mkri.id/detail/764,Tidak Diterima,False,False,True,False,0
+PUT-0765/2023,Perkara Nomor 765,2020,Tidak Diterima,https://jdih.mkri.id/detail/765,Tidak Diterima,False,True,False,False,0
+PUT-0766/2023,Perkara Nomor 766,2019,Dikabulkan,https://jdih.mkri.id/detail/766,Dikabulkan,False,False,True,False,1
+PUT-0767/2023,Perkara Nomor 767,2021,Dikabulkan,https://jdih.mkri.id/detail/767,Dikabulkan,False,False,False,True,1
+PUT-0768/2023,Perkara Nomor 768,2020,Tidak Diterima,https://jdih.mkri.id/detail/768,Tidak Diterima,False,True,False,False,0
+PUT-0769/2023,Perkara Nomor 769,2021,Ditolak,https://jdih.mkri.id/detail/769,Ditolak,False,True,False,False,0
+PUT-0770/2023,Perkara Nomor 770,2021,Dikabulkan,https://jdih.mkri.id/detail/770,Dikabulkan,False,False,True,False,1
+PUT-0771/2023,Perkara Nomor 771,2020,Ditolak,https://jdih.mkri.id/detail/771,Ditolak,False,False,True,False,0
+PUT-0772/2023,Perkara Nomor 772,2021,Tidak Diterima,https://jdih.mkri.id/detail/772,Tidak Diterima,False,False,True,False,0
+PUT-0773/2023,Perkara Nomor 773,2019,Tidak Diterima,https://jdih.mkri.id/detail/773,Tidak Diterima,False,False,True,False,0
+PUT-0774/2023,Perkara Nomor 774,2019,Ditolak,https://jdih.mkri.id/detail/774,Ditolak,False,False,True,False,0
+PUT-0775/2023,Perkara Nomor 775,2021,Dikabulkan,https://jdih.mkri.id/detail/775,Dikabulkan,False,True,False,False,1
+PUT-0776/2023,Perkara Nomor 776,2020,Ditolak,https://jdih.mkri.id/detail/776,Ditolak,False,True,False,False,0
+PUT-0777/2023,Perkara Nomor 777,2022,Ditolak,https://jdih.mkri.id/detail/777,Ditolak,False,False,True,False,0
+PUT-0778/2023,Perkara Nomor 778,2018,Ditolak,https://jdih.mkri.id/detail/778,Ditolak,False,False,True,False,0
+PUT-0779/2023,Perkara Nomor 779,2022,Dikabulkan,https://jdih.mkri.id/detail/779,Dikabulkan,False,False,True,False,1
+PUT-0780/2023,Perkara Nomor 780,2021,Tidak Diterima,https://jdih.mkri.id/detail/780,Tidak Diterima,False,False,True,False,0
+PUT-0781/2023,Perkara Nomor 781,2019,Ditolak,https://jdih.mkri.id/detail/781,Ditolak,False,False,True,False,0
+PUT-0782/2023,Perkara Nomor 782,2020,Ditolak,https://jdih.mkri.id/detail/782,Ditolak,False,False,True,False,0
+PUT-0783/2023,Perkara Nomor 783,2021,Tidak Diterima,https://jdih.mkri.id/detail/783,Tidak Diterima,False,False,True,False,0
+PUT-0784/2023,Perkara Nomor 784,2023,Dikabulkan,https://jdih.mkri.id/detail/784,Dikabulkan,False,False,True,False,1
+PUT-0785/2023,Perkara Nomor 785,2018,Tidak Diterima,https://jdih.mkri.id/detail/785,Tidak Diterima,False,False,True,False,0
+PUT-0786/2023,Perkara Nomor 786,2020,Dikabulkan,https://jdih.mkri.id/detail/786,Dikabulkan,False,False,False,True,1
+PUT-0787/2023,Perkara Nomor 787,2021,Dikabulkan,https://jdih.mkri.id/detail/787,Dikabulkan,False,True,False,False,1
+PUT-0788/2023,Perkara Nomor 788,2022,Ditolak,https://jdih.mkri.id/detail/788,Ditolak,False,True,False,False,0
+PUT-0789/2023,Perkara Nomor 789,2022,Tidak Diterima,https://jdih.mkri.id/detail/789,Tidak Diterima,False,True,False,False,0
+PUT-0790/2023,Perkara Nomor 790,2021,Ditolak,https://jdih.mkri.id/detail/790,Ditolak,False,False,True,False,0
+PUT-0791/2023,Perkara Nomor 791,2023,Ditolak,https://jdih.mkri.id/detail/791,Ditolak,False,False,False,True,0
+PUT-0792/2023,Perkara Nomor 792,2021,Tidak Diterima,https://jdih.mkri.id/detail/792,Tidak Diterima,False,False,True,False,0
+PUT-0793/2023,Perkara Nomor 793,2020,Dikabulkan,https://jdih.mkri.id/detail/793,Dikabulkan,False,False,True,False,1
+PUT-0794/2023,Perkara Nomor 794,2019,Ditolak,https://jdih.mkri.id/detail/794,Ditolak,False,False,True,False,0
+PUT-0795/2023,Perkara Nomor 795,2022,Tidak Diterima,https://jdih.mkri.id/detail/795,Tidak Diterima,False,True,False,False,0
+PUT-0796/2023,Perkara Nomor 796,2023,Tidak Diterima,https://jdih.mkri.id/detail/796,Tidak Diterima,False,False,True,False,0
+PUT-0797/2023,Perkara Nomor 797,2021,Dikabulkan,https://jdih.mkri.id/detail/797,Dikabulkan,False,True,False,False,1
+PUT-0798/2023,Perkara Nomor 798,2022,Dikabulkan,https://jdih.mkri.id/detail/798,Dikabulkan,False,False,True,False,1
+PUT-0799/2023,Perkara Nomor 799,2021,Tidak Diterima,https://jdih.mkri.id/detail/799,Tidak Diterima,False,True,False,False,0
+PUT-0800/2023,Perkara Nomor 800,2020,Ditolak,https://jdih.mkri.id/detail/800,Ditolak,False,True,False,False,0
+PUT-0801/2023,Perkara Nomor 801,2021,Ditolak,https://jdih.mkri.id/detail/801,Ditolak,False,False,True,False,0
+PUT-0802/2023,Perkara Nomor 802,2019,Dikabulkan,https://jdih.mkri.id/detail/802,Dikabulkan,False,True,False,False,1
+PUT-0803/2023,Perkara Nomor 803,2021,Dikabulkan,https://jdih.mkri.id/detail/803,Dikabulkan,False,False,True,False,1
+PUT-0804/2023,Perkara Nomor 804,2022,Tidak Diterima,https://jdih.mkri.id/detail/804,Tidak Diterima,False,False,True,False,0
+PUT-0805/2023,Perkara Nomor 805,2022,Dikabulkan,https://jdih.mkri.id/detail/805,Dikabulkan,False,False,True,False,1
+PUT-0806/2023,Perkara Nomor 806,2018,Dikabulkan,https://jdih.mkri.id/detail/806,Dikabulkan,False,True,False,False,1
+PUT-0807/2023,Perkara Nomor 807,2021,Tidak Diterima,https://jdih.mkri.id/detail/807,Tidak Diterima,False,False,True,False,0
+PUT-0808/2023,Perkara Nomor 808,2019,Dikabulkan,https://jdih.mkri.id/detail/808,Dikabulkan,False,False,True,False,1
+PUT-0809/2023,Perkara Nomor 809,2020,Dikabulkan,https://jdih.mkri.id/detail/809,Dikabulkan,False,True,False,False,1
+PUT-0810/2023,Perkara Nomor 810,2021,Dikabulkan,https://jdih.mkri.id/detail/810,Dikabulkan,False,False,True,False,1
+PUT-0811/2023,Perkara Nomor 811,2019,Dikabulkan,https://jdih.mkri.id/detail/811,Dikabulkan,False,False,True,False,1
+PUT-0812/2023,Perkara Nomor 812,2020,Tidak Diterima,https://jdih.mkri.id/detail/812,Tidak Diterima,False,False,True,False,0
+PUT-0813/2023,Perkara Nomor 813,2023,Ditolak,https://jdih.mkri.id/detail/813,Ditolak,False,False,True,False,0
+PUT-0814/2023,Perkara Nomor 814,2023,Ditolak,https://jdih.mkri.id/detail/814,Ditolak,False,False,True,False,0
+PUT-0815/2023,Perkara Nomor 815,2020,Ditolak,https://jdih.mkri.id/detail/815,Ditolak,True,False,False,False,0
+PUT-0816/2023,Perkara Nomor 816,2022,Ditolak,https://jdih.mkri.id/detail/816,Ditolak,True,False,False,False,0
+PUT-0817/2023,Perkara Nomor 817,2023,Ditolak,https://jdih.mkri.id/detail/817,Ditolak,False,False,True,False,0
+PUT-0818/2023,Perkara Nomor 818,2021,Ditolak,https://jdih.mkri.id/detail/818,Ditolak,False,True,False,False,0
+PUT-0819/2023,Perkara Nomor 819,2019,Tidak Diterima,https://jdih.mkri.id/detail/819,Tidak Diterima,False,True,False,False,0
+PUT-0820/2023,Perkara Nomor 820,2020,Tidak Diterima,https://jdih.mkri.id/detail/820,Tidak Diterima,False,False,False,True,0
+PUT-0821/2023,Perkara Nomor 821,2023,Dikabulkan,https://jdih.mkri.id/detail/821,Dikabulkan,False,False,True,False,1
+PUT-0822/2023,Perkara Nomor 822,2022,Tidak Diterima,https://jdih.mkri.id/detail/822,Tidak Diterima,False,False,True,False,0
+PUT-0823/2023,Perkara Nomor 823,2021,Ditolak,https://jdih.mkri.id/detail/823,Ditolak,False,False,True,False,0
+PUT-0824/2023,Perkara Nomor 824,2019,Dikabulkan,https://jdih.mkri.id/detail/824,Dikabulkan,True,False,False,False,1
+PUT-0825/2023,Perkara Nomor 825,2021,Ditolak,https://jdih.mkri.id/detail/825,Ditolak,False,True,False,False,0
+PUT-0826/2023,Perkara Nomor 826,2020,Tidak Diterima,https://jdih.mkri.id/detail/826,Tidak Diterima,True,False,False,False,0
+PUT-0827/2023,Perkara Nomor 827,2019,Dikabulkan,https://jdih.mkri.id/detail/827,Dikabulkan,False,True,False,False,1
+PUT-0828/2023,Perkara Nomor 828,2021,Tidak Diterima,https://jdih.mkri.id/detail/828,Tidak Diterima,False,False,True,False,0
+PUT-0829/2023,Perkara Nomor 829,2021,Tidak Diterima,https://jdih.mkri.id/detail/829,Tidak Diterima,True,False,False,False,0
+PUT-0830/2023,Perkara Nomor 830,2019,Ditolak,https://jdih.mkri.id/detail/830,Ditolak,False,True,False,False,0
+PUT-0831/2023,Perkara Nomor 831,2018,Ditolak,https://jdih.mkri.id/detail/831,Ditolak,False,False,True,False,0
+PUT-0832/2023,Perkara Nomor 832,2022,Tidak Diterima,https://jdih.mkri.id/detail/832,Tidak Diterima,False,True,False,False,0
+PUT-0833/2023,Perkara Nomor 833,2023,Ditolak,https://jdih.mkri.id/detail/833,Ditolak,False,False,True,False,0
+PUT-0834/2023,Perkara Nomor 834,2020,Tidak Diterima,https://jdih.mkri.id/detail/834,Tidak Diterima,False,False,True,False,0
+PUT-0835/2023,Perkara Nomor 835,2019,Tidak Diterima,https://jdih.mkri.id/detail/835,Tidak Diterima,True,False,False,False,0
+PUT-0836/2023,Perkara Nomor 836,2023,Ditolak,https://jdih.mkri.id/detail/836,Ditolak,False,True,False,False,0
+PUT-0837/2023,Perkara Nomor 837,2020,Ditolak,https://jdih.mkri.id/detail/837,Ditolak,False,False,True,False,0
+PUT-0838/2023,Perkara Nomor 838,2021,Ditolak,https://jdih.mkri.id/detail/838,Ditolak,False,True,False,False,0
+PUT-0839/2023,Perkara Nomor 839,2023,Dikabulkan,https://jdih.mkri.id/detail/839,Dikabulkan,False,True,False,False,1
+PUT-0840/2023,Perkara Nomor 840,2022,Ditolak,https://jdih.mkri.id/detail/840,Ditolak,True,False,False,False,0
+PUT-0841/2023,Perkara Nomor 841,2021,Tidak Diterima,https://jdih.mkri.id/detail/841,Tidak Diterima,False,False,False,True,0
+PUT-0842/2023,Perkara Nomor 842,2019,Ditolak,https://jdih.mkri.id/detail/842,Ditolak,False,True,False,False,0
+PUT-0843/2023,Perkara Nomor 843,2023,Tidak Diterima,https://jdih.mkri.id/detail/843,Tidak Diterima,False,False,True,False,0
+PUT-0844/2023,Perkara Nomor 844,2022,Dikabulkan,https://jdih.mkri.id/detail/844,Dikabulkan,False,False,True,False,1
+PUT-0845/2023,Perkara Nomor 845,2022,Tidak Diterima,https://jdih.mkri.id/detail/845,Tidak Diterima,False,False,True,False,0
+PUT-0846/2023,Perkara Nomor 846,2022,Tidak Diterima,https://jdih.mkri.id/detail/846,Tidak Diterima,False,False,False,True,0
+PUT-0847/2023,Perkara Nomor 847,2021,Tidak Diterima,https://jdih.mkri.id/detail/847,Tidak Diterima,False,False,True,False,0
+PUT-0848/2023,Perkara Nomor 848,2020,Dikabulkan,https://jdih.mkri.id/detail/848,Dikabulkan,False,False,True,False,1
+PUT-0849/2023,Perkara Nomor 849,2021,Tidak Diterima,https://jdih.mkri.id/detail/849,Tidak Diterima,False,False,True,False,0
+PUT-0850/2023,Perkara Nomor 850,2021,Ditolak,https://jdih.mkri.id/detail/850,Ditolak,False,False,True,False,0
+PUT-0851/2023,Perkara Nomor 851,2023,Tidak Diterima,https://jdih.mkri.id/detail/851,Tidak Diterima,False,True,False,False,0
+PUT-0852/2023,Perkara Nomor 852,2021,Tidak Diterima,https://jdih.mkri.id/detail/852,Tidak Diterima,False,True,False,False,0
+PUT-0853/2023,Perkara Nomor 853,2021,Ditolak,https://jdih.mkri.id/detail/853,Ditolak,False,False,True,False,0
+PUT-0854/2023,Perkara Nomor 854,2021,Ditolak,https://jdih.mkri.id/detail/854,Ditolak,False,True,False,False,0
+PUT-0855/2023,Perkara Nomor 855,2020,Dikabulkan,https://jdih.mkri.id/detail/855,Dikabulkan,False,False,False,True,1
+PUT-0856/2023,Perkara Nomor 856,2023,Ditolak,https://jdih.mkri.id/detail/856,Ditolak,False,False,True,False,0
+PUT-0857/2023,Perkara Nomor 857,2023,Dikabulkan,https://jdih.mkri.id/detail/857,Dikabulkan,False,False,True,False,1
+PUT-0858/2023,Perkara Nomor 858,2021,Tidak Diterima,https://jdih.mkri.id/detail/858,Tidak Diterima,False,True,False,False,0
+PUT-0859/2023,Perkara Nomor 859,2020,Tidak Diterima,https://jdih.mkri.id/detail/859,Tidak Diterima,True,False,False,False,0
+PUT-0860/2023,Perkara Nomor 860,2021,Tidak Diterima,https://jdih.mkri.id/detail/860,Tidak Diterima,False,False,True,False,0
+PUT-0861/2023,Perkara Nomor 861,2023,Ditolak,https://jdih.mkri.id/detail/861,Ditolak,False,False,True,False,0
+PUT-0862/2023,Perkara Nomor 862,2019,Ditolak,https://jdih.mkri.id/detail/862,Ditolak,False,True,False,False,0
+PUT-0863/2023,Perkara Nomor 863,2021,Dikabulkan,https://jdih.mkri.id/detail/863,Dikabulkan,False,False,True,False,1
+PUT-0864/2023,Perkara Nomor 864,2021,Tidak Diterima,https://jdih.mkri.id/detail/864,Tidak Diterima,False,False,True,False,0
+PUT-0865/2023,Perkara Nomor 865,2023,Tidak Diterima,https://jdih.mkri.id/detail/865,Tidak Diterima,False,False,False,True,0
+PUT-0866/2023,Perkara Nomor 866,2022,Ditolak,https://jdih.mkri.id/detail/866,Ditolak,False,False,True,False,0
+PUT-0867/2023,Perkara Nomor 867,2021,Ditolak,https://jdih.mkri.id/detail/867,Ditolak,False,False,True,False,0
+PUT-0868/2023,Perkara Nomor 868,2021,Tidak Diterima,https://jdih.mkri.id/detail/868,Tidak Diterima,False,False,True,False,0
+PUT-0869/2023,Perkara Nomor 869,2021,Tidak Diterima,https://jdih.mkri.id/detail/869,Tidak Diterima,False,False,True,False,0
+PUT-0870/2023,Perkara Nomor 870,2021,Ditolak,https://jdih.mkri.id/detail/870,Ditolak,False,True,False,False,0
+PUT-0871/2023,Perkara Nomor 871,2022,Dikabulkan,https://jdih.mkri.id/detail/871,Dikabulkan,False,True,False,False,1
+PUT-0872/2023,Perkara Nomor 872,2020,Dikabulkan,https://jdih.mkri.id/detail/872,Dikabulkan,False,True,False,False,1
+PUT-0873/2023,Perkara Nomor 873,2023,Ditolak,https://jdih.mkri.id/detail/873,Ditolak,False,False,True,False,0
+PUT-0874/2023,Perkara Nomor 874,2020,Ditolak,https://jdih.mkri.id/detail/874,Ditolak,False,False,True,False,0
+PUT-0875/2023,Perkara Nomor 875,2021,Ditolak,https://jdih.mkri.id/detail/875,Ditolak,False,False,True,False,0
+PUT-0876/2023,Perkara Nomor 876,2022,Ditolak,https://jdih.mkri.id/detail/876,Ditolak,False,True,False,False,0
+PUT-0877/2023,Perkara Nomor 877,2020,Tidak Diterima,https://jdih.mkri.id/detail/877,Tidak Diterima,False,False,True,False,0
+PUT-0878/2023,Perkara Nomor 878,2021,Tidak Diterima,https://jdih.mkri.id/detail/878,Tidak Diterima,False,False,True,False,0
+PUT-0879/2023,Perkara Nomor 879,2020,Tidak Diterima,https://jdih.mkri.id/detail/879,Tidak Diterima,False,False,True,False,0
+PUT-0880/2023,Perkara Nomor 880,2021,Dikabulkan,https://jdih.mkri.id/detail/880,Dikabulkan,False,True,False,False,1
+PUT-0881/2023,Perkara Nomor 881,2021,Tidak Diterima,https://jdih.mkri.id/detail/881,Tidak Diterima,False,True,False,False,0
+PUT-0882/2023,Perkara Nomor 882,2021,Ditolak,https://jdih.mkri.id/detail/882,Ditolak,False,False,True,False,0
+PUT-0883/2023,Perkara Nomor 883,2019,Tidak Diterima,https://jdih.mkri.id/detail/883,Tidak Diterima,False,False,True,False,0
+PUT-0884/2023,Perkara Nomor 884,2018,Ditolak,https://jdih.mkri.id/detail/884,Ditolak,False,True,False,False,0
+PUT-0885/2023,Perkara Nomor 885,2021,Dikabulkan,https://jdih.mkri.id/detail/885,Dikabulkan,False,False,False,True,1
+PUT-0886/2023,Perkara Nomor 886,2020,Dikabulkan,https://jdih.mkri.id/detail/886,Dikabulkan,False,True,False,False,1
+PUT-0887/2023,Perkara Nomor 887,2021,Ditolak,https://jdih.mkri.id/detail/887,Ditolak,False,False,True,False,0
+PUT-0888/2023,Perkara Nomor 888,2022,Tidak Diterima,https://jdih.mkri.id/detail/888,Tidak Diterima,True,False,False,False,0
+PUT-0889/2023,Perkara Nomor 889,2021,Ditolak,https://jdih.mkri.id/detail/889,Ditolak,False,False,True,False,0
+PUT-0890/2023,Perkara Nomor 890,2020,Ditolak,https://jdih.mkri.id/detail/890,Ditolak,False,False,True,False,0
+PUT-0891/2023,Perkara Nomor 891,2019,Ditolak,https://jdih.mkri.id/detail/891,Ditolak,False,False,True,False,0
+PUT-0892/2023,Perkara Nomor 892,2021,Dikabulkan,https://jdih.mkri.id/detail/892,Dikabulkan,False,True,False,False,1
+PUT-0893/2023,Perkara Nomor 893,2021,Ditolak,https://jdih.mkri.id/detail/893,Ditolak,False,False,True,False,0
+PUT-0894/2023,Perkara Nomor 894,2022,Tidak Diterima,https://jdih.mkri.id/detail/894,Tidak Diterima,False,False,True,False,0
+PUT-0895/2023,Perkara Nomor 895,2019,Tidak Diterima,https://jdih.mkri.id/detail/895,Tidak Diterima,False,False,True,False,0
+PUT-0896/2023,Perkara Nomor 896,2020,Tidak Diterima,https://jdih.mkri.id/detail/896,Tidak Diterima,False,False,True,False,0
+PUT-0897/2023,Perkara Nomor 897,2022,Ditolak,https://jdih.mkri.id/detail/897,Ditolak,True,False,False,False,0
+PUT-0898/2023,Perkara Nomor 898,2020,Tidak Diterima,https://jdih.mkri.id/detail/898,Tidak Diterima,False,False,False,True,0
+PUT-0899/2023,Perkara Nomor 899,2021,Ditolak,https://jdih.mkri.id/detail/899,Ditolak,False,False,False,True,0
+PUT-0900/2023,Perkara Nomor 900,2021,Ditolak,https://jdih.mkri.id/detail/900,Ditolak,False,True,False,False,0
+PUT-0901/2023,Perkara Nomor 901,2021,Dikabulkan,https://jdih.mkri.id/detail/901,Dikabulkan,False,False,True,False,1
+PUT-0902/2023,Perkara Nomor 902,2019,Tidak Diterima,https://jdih.mkri.id/detail/902,Tidak Diterima,False,False,True,False,0
+PUT-0903/2023,Perkara Nomor 903,2021,Dikabulkan,https://jdih.mkri.id/detail/903,Dikabulkan,False,True,False,False,1
+PUT-0904/2023,Perkara Nomor 904,2020,Dikabulkan,https://jdih.mkri.id/detail/904,Dikabulkan,False,False,True,False,1
+PUT-0905/2023,Perkara Nomor 905,2020,Dikabulkan,https://jdih.mkri.id/detail/905,Dikabulkan,False,False,True,False,1
+PUT-0906/2023,Perkara Nomor 906,2019,Tidak Diterima,https://jdih.mkri.id/detail/906,Tidak Diterima,False,True,False,False,0
+PUT-0907/2023,Perkara Nomor 907,2020,Ditolak,https://jdih.mkri.id/detail/907,Ditolak,False,True,False,False,0
+PUT-0908/2023,Perkara Nomor 908,2020,Tidak Diterima,https://jdih.mkri.id/detail/908,Tidak Diterima,False,False,True,False,0
+PUT-0909/2023,Perkara Nomor 909,2021,Dikabulkan,https://jdih.mkri.id/detail/909,Dikabulkan,False,False,True,False,1
+PUT-0910/2023,Perkara Nomor 910,2022,Dikabulkan,https://jdih.mkri.id/detail/910,Dikabulkan,False,False,True,False,1
+PUT-0911/2023,Perkara Nomor 911,2020,Ditolak,https://jdih.mkri.id/detail/911,Ditolak,False,True,False,False,0
+PUT-0912/2023,Perkara Nomor 912,2022,Dikabulkan,https://jdih.mkri.id/detail/912,Dikabulkan,False,True,False,False,1
+PUT-0913/2023,Perkara Nomor 913,2018,Tidak Diterima,https://jdih.mkri.id/detail/913,Tidak Diterima,False,True,False,False,0
+PUT-0914/2023,Perkara Nomor 914,2020,Tidak Diterima,https://jdih.mkri.id/detail/914,Tidak Diterima,False,False,True,False,0
+PUT-0915/2023,Perkara Nomor 915,2022,Dikabulkan,https://jdih.mkri.id/detail/915,Dikabulkan,False,False,True,False,1
+PUT-0916/2023,Perkara Nomor 916,2018,Tidak Diterima,https://jdih.mkri.id/detail/916,Tidak Diterima,False,True,False,False,0
+PUT-0917/2023,Perkara Nomor 917,2022,Dikabulkan,https://jdih.mkri.id/detail/917,Dikabulkan,False,False,True,False,1
+PUT-0918/2023,Perkara Nomor 918,2022,Ditolak,https://jdih.mkri.id/detail/918,Ditolak,False,False,False,True,0
+PUT-0919/2023,Perkara Nomor 919,2022,Dikabulkan,https://jdih.mkri.id/detail/919,Dikabulkan,False,True,False,False,1
+PUT-0920/2023,Perkara Nomor 920,2019,Ditolak,https://jdih.mkri.id/detail/920,Ditolak,False,True,False,False,0
+PUT-0921/2023,Perkara Nomor 921,2021,Ditolak,https://jdih.mkri.id/detail/921,Ditolak,False,False,False,True,0
+PUT-0922/2023,Perkara Nomor 922,2022,Ditolak,https://jdih.mkri.id/detail/922,Ditolak,False,False,True,False,0
+PUT-0923/2023,Perkara Nomor 923,2021,Dikabulkan,https://jdih.mkri.id/detail/923,Dikabulkan,False,False,True,False,1
+PUT-0924/2023,Perkara Nomor 924,2020,Dikabulkan,https://jdih.mkri.id/detail/924,Dikabulkan,False,True,False,False,1
+PUT-0925/2023,Perkara Nomor 925,2023,Ditolak,https://jdih.mkri.id/detail/925,Ditolak,False,True,False,False,0
+PUT-0926/2023,Perkara Nomor 926,2022,Ditolak,https://jdih.mkri.id/detail/926,Ditolak,False,False,True,False,0
+PUT-0927/2023,Perkara Nomor 927,2021,Ditolak,https://jdih.mkri.id/detail/927,Ditolak,False,False,True,False,0
+PUT-0928/2023,Perkara Nomor 928,2019,Ditolak,https://jdih.mkri.id/detail/928,Ditolak,False,False,True,False,0
+PUT-0929/2023,Perkara Nomor 929,2021,Dikabulkan,https://jdih.mkri.id/detail/929,Dikabulkan,True,False,False,False,1
+PUT-0930/2023,Perkara Nomor 930,2023,Dikabulkan,https://jdih.mkri.id/detail/930,Dikabulkan,False,False,True,False,1
+PUT-0931/2023,Perkara Nomor 931,2019,Dikabulkan,https://jdih.mkri.id/detail/931,Dikabulkan,False,False,True,False,1
+PUT-0932/2023,Perkara Nomor 932,2020,Tidak Diterima,https://jdih.mkri.id/detail/932,Tidak Diterima,False,False,True,False,0
+PUT-0933/2023,Perkara Nomor 933,2023,Tidak Diterima,https://jdih.mkri.id/detail/933,Tidak Diterima,False,False,True,False,0
+PUT-0934/2023,Perkara Nomor 934,2020,Dikabulkan,https://jdih.mkri.id/detail/934,Dikabulkan,False,False,True,False,1
+PUT-0935/2023,Perkara Nomor 935,2023,Ditolak,https://jdih.mkri.id/detail/935,Ditolak,False,False,True,False,0
+PUT-0936/2023,Perkara Nomor 936,2021,Tidak Diterima,https://jdih.mkri.id/detail/936,Tidak Diterima,False,False,True,False,0
+PUT-0937/2023,Perkara Nomor 937,2018,Tidak Diterima,https://jdih.mkri.id/detail/937,Tidak Diterima,False,False,True,False,0
+PUT-0938/2023,Perkara Nomor 938,2020,Tidak Diterima,https://jdih.mkri.id/detail/938,Tidak Diterima,False,False,True,False,0
+PUT-0939/2023,Perkara Nomor 939,2018,Tidak Diterima,https://jdih.mkri.id/detail/939,Tidak Diterima,False,False,False,True,0
+PUT-0940/2023,Perkara Nomor 940,2022,Ditolak,https://jdih.mkri.id/detail/940,Ditolak,False,False,True,False,0
+PUT-0941/2023,Perkara Nomor 941,2022,Tidak Diterima,https://jdih.mkri.id/detail/941,Tidak Diterima,False,True,False,False,0
+PUT-0942/2023,Perkara Nomor 942,2021,Tidak Diterima,https://jdih.mkri.id/detail/942,Tidak Diterima,False,False,True,False,0
+PUT-0943/2023,Perkara Nomor 943,2018,Dikabulkan,https://jdih.mkri.id/detail/943,Dikabulkan,False,False,True,False,1
+PUT-0944/2023,Perkara Nomor 944,2021,Tidak Diterima,https://jdih.mkri.id/detail/944,Tidak Diterima,False,False,True,False,0
+PUT-0945/2023,Perkara Nomor 945,2018,Ditolak,https://jdih.mkri.id/detail/945,Ditolak,False,True,False,False,0
+PUT-0946/2023,Perkara Nomor 946,2020,Tidak Diterima,https://jdih.mkri.id/detail/946,Tidak Diterima,False,False,True,False,0
+PUT-0947/2023,Perkara Nomor 947,2020,Tidak Diterima,https://jdih.mkri.id/detail/947,Tidak Diterima,True,False,False,False,0
+PUT-0948/2023,Perkara Nomor 948,2021,Ditolak,https://jdih.mkri.id/detail/948,Ditolak,False,True,False,False,0
+PUT-0949/2023,Perkara Nomor 949,2019,Ditolak,https://jdih.mkri.id/detail/949,Ditolak,True,False,False,False,0
+PUT-0950/2023,Perkara Nomor 950,2020,Ditolak,https://jdih.mkri.id/detail/950,Ditolak,False,True,False,False,0
+PUT-0951/2023,Perkara Nomor 951,2021,Ditolak,https://jdih.mkri.id/detail/951,Ditolak,False,False,True,False,0
+PUT-0952/2023,Perkara Nomor 952,2021,Dikabulkan,https://jdih.mkri.id/detail/952,Dikabulkan,False,True,False,False,1
+PUT-0953/2023,Perkara Nomor 953,2022,Dikabulkan,https://jdih.mkri.id/detail/953,Dikabulkan,False,False,True,False,1
+PUT-0954/2023,Perkara Nomor 954,2020,Ditolak,https://jdih.mkri.id/detail/954,Ditolak,True,False,False,False,0
+PUT-0955/2023,Perkara Nomor 955,2022,Dikabulkan,https://jdih.mkri.id/detail/955,Dikabulkan,False,True,False,False,1
+PUT-0956/2023,Perkara Nomor 956,2020,Tidak Diterima,https://jdih.mkri.id/detail/956,Tidak Diterima,False,False,True,False,0
+PUT-0957/2023,Perkara Nomor 957,2018,Ditolak,https://jdih.mkri.id/detail/957,Ditolak,False,False,True,False,0
+PUT-0958/2023,Perkara Nomor 958,2020,Dikabulkan,https://jdih.mkri.id/detail/958,Dikabulkan,False,False,True,False,1
+PUT-0959/2023,Perkara Nomor 959,2019,Ditolak,https://jdih.mkri.id/detail/959,Ditolak,True,False,False,False,0
+PUT-0960/2023,Perkara Nomor 960,2022,Ditolak,https://jdih.mkri.id/detail/960,Ditolak,False,False,False,True,0
+PUT-0961/2023,Perkara Nomor 961,2019,Dikabulkan,https://jdih.mkri.id/detail/961,Dikabulkan,False,False,True,False,1
+PUT-0962/2023,Perkara Nomor 962,2022,Ditolak,https://jdih.mkri.id/detail/962,Ditolak,False,False,True,False,0
+PUT-0963/2023,Perkara Nomor 963,2021,Ditolak,https://jdih.mkri.id/detail/963,Ditolak,False,False,True,False,0
+PUT-0964/2023,Perkara Nomor 964,2022,Tidak Diterima,https://jdih.mkri.id/detail/964,Tidak Diterima,False,True,False,False,0
+PUT-0965/2023,Perkara Nomor 965,2019,Ditolak,https://jdih.mkri.id/detail/965,Ditolak,True,False,False,False,0
+PUT-0966/2023,Perkara Nomor 966,2020,Ditolak,https://jdih.mkri.id/detail/966,Ditolak,False,False,True,False,0
+PUT-0967/2023,Perkara Nomor 967,2021,Tidak Diterima,https://jdih.mkri.id/detail/967,Tidak Diterima,False,False,True,False,0
+PUT-0968/2023,Perkara Nomor 968,2019,Tidak Diterima,https://jdih.mkri.id/detail/968,Tidak Diterima,False,False,True,False,0
+PUT-0969/2023,Perkara Nomor 969,2019,Tidak Diterima,https://jdih.mkri.id/detail/969,Tidak Diterima,True,False,False,False,0
+PUT-0970/2023,Perkara Nomor 970,2021,Ditolak,https://jdih.mkri.id/detail/970,Ditolak,False,True,False,False,0
+PUT-0971/2023,Perkara Nomor 971,2023,Dikabulkan,https://jdih.mkri.id/detail/971,Dikabulkan,True,False,False,False,1
+PUT-0972/2023,Perkara Nomor 972,2023,Ditolak,https://jdih.mkri.id/detail/972,Ditolak,False,True,False,False,0
+PUT-0973/2023,Perkara Nomor 973,2018,Dikabulkan,https://jdih.mkri.id/detail/973,Dikabulkan,False,False,False,True,1
+PUT-0974/2023,Perkara Nomor 974,2021,Ditolak,https://jdih.mkri.id/detail/974,Ditolak,False,True,False,False,0
+PUT-0975/2023,Perkara Nomor 975,2020,Tidak Diterima,https://jdih.mkri.id/detail/975,Tidak Diterima,False,True,False,False,0
+PUT-0976/2023,Perkara Nomor 976,2023,Dikabulkan,https://jdih.mkri.id/detail/976,Dikabulkan,False,True,False,False,1
+PUT-0977/2023,Perkara Nomor 977,2021,Dikabulkan,https://jdih.mkri.id/detail/977,Dikabulkan,False,False,False,True,1
+PUT-0978/2023,Perkara Nomor 978,2023,Ditolak,https://jdih.mkri.id/detail/978,Ditolak,False,False,True,False,0
+PUT-0979/2023,Perkara Nomor 979,2020,Ditolak,https://jdih.mkri.id/detail/979,Ditolak,False,False,True,False,0
+PUT-0980/2023,Perkara Nomor 980,2018,Tidak Diterima,https://jdih.mkri.id/detail/980,Tidak Diterima,False,False,True,False,0
+PUT-0981/2023,Perkara Nomor 981,2023,Tidak Diterima,https://jdih.mkri.id/detail/981,Tidak Diterima,True,False,False,False,0
+PUT-0982/2023,Perkara Nomor 982,2020,Dikabulkan,https://jdih.mkri.id/detail/982,Dikabulkan,False,False,True,False,1
+PUT-0983/2023,Perkara Nomor 983,2022,Tidak Diterima,https://jdih.mkri.id/detail/983,Tidak Diterima,False,False,True,False,0
+PUT-0984/2023,Perkara Nomor 984,2020,Ditolak,https://jdih.mkri.id/detail/984,Ditolak,False,False,True,False,0
+PUT-0985/2023,Perkara Nomor 985,2019,Ditolak,https://jdih.mkri.id/detail/985,Ditolak,False,True,False,False,0
+PUT-0986/2023,Perkara Nomor 986,2019,Dikabulkan,https://jdih.mkri.id/detail/986,Dikabulkan,False,False,False,True,1
+PUT-0987/2023,Perkara Nomor 987,2020,Tidak Diterima,https://jdih.mkri.id/detail/987,Tidak Diterima,False,True,False,False,0
+PUT-0988/2023,Perkara Nomor 988,2018,Ditolak,https://jdih.mkri.id/detail/988,Ditolak,False,False,True,False,0
+PUT-0989/2023,Perkara Nomor 989,2018,Dikabulkan,https://jdih.mkri.id/detail/989,Dikabulkan,False,False,False,True,1
+PUT-0990/2023,Perkara Nomor 990,2020,Tidak Diterima,https://jdih.mkri.id/detail/990,Tidak Diterima,False,False,True,False,0
+PUT-0991/2023,Perkara Nomor 991,2019,Dikabulkan,https://jdih.mkri.id/detail/991,Dikabulkan,False,True,False,False,1
+PUT-0992/2023,Perkara Nomor 992,2021,Dikabulkan,https://jdih.mkri.id/detail/992,Dikabulkan,False,False,False,True,1
+PUT-0993/2023,Perkara Nomor 993,2019,Dikabulkan,https://jdih.mkri.id/detail/993,Dikabulkan,True,False,False,False,1
+PUT-0994/2023,Perkara Nomor 994,2020,Dikabulkan,https://jdih.mkri.id/detail/994,Dikabulkan,False,True,False,False,1
+PUT-0995/2023,Perkara Nomor 995,2021,Ditolak,https://jdih.mkri.id/detail/995,Ditolak,False,False,True,False,0
+PUT-0996/2023,Perkara Nomor 996,2019,Ditolak,https://jdih.mkri.id/detail/996,Ditolak,False,True,False,False,0
+PUT-0997/2023,Perkara Nomor 997,2022,Tidak Diterima,https://jdih.mkri.id/detail/997,Tidak Diterima,False,False,True,False,0
+PUT-0998/2023,Perkara Nomor 998,2020,Dikabulkan,https://jdih.mkri.id/detail/998,Dikabulkan,False,False,False,True,1
+PUT-0999/2023,Perkara Nomor 999,2020,Dikabulkan,https://jdih.mkri.id/detail/999,Dikabulkan,False,True,False,False,1
+PUT-1000/2023,Perkara Nomor 1000,2020,Ditolak,https://jdih.mkri.id/detail/1000,Ditolak,False,True,False,False,0
